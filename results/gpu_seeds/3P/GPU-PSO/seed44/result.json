@@ -1,0 +1,17 @@
+{
+    "method": "GPU-PSO",
+    "dimension": 3,
+    "active_parameters": [
+        203,
+        190,
+        150
+    ],
+    "loss": 0.9971582867745452,
+    "iterations": 112,
+    "evaluations": 1145,
+    "time_seconds": 5464.513899564743,
+    "stop_reason": "loss_threshold",
+    "gpu": 0,
+    "workers": 16,
+    "seed": 44
+}

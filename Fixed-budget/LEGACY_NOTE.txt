@@ -1,0 +1,3 @@
+LEGACY: older sweep-history analysis.
+For the manuscript, prefer: from_table/Fixed_budget_analysis.md
+See MANUSCRIPT_PREFERRED.md in this folder.

@@ -1,0 +1,397 @@
+seed,method,n_params,budget,best_loss,fill_kind,is_approx,confidence,run_total_evals,run_final_loss,stop_reason,approx_run
+2,GPU-PSO,2,100,7.249244957003035,observed,False,1.0,470,7.07433134882231,Stop A (normal convergence): rel_imp flat 21 iters (≥10) AND contraction_ratio=0.0680 < 0.1,False
+2,GPU-PSO,2,250,7.092587014672007,observed,False,1.0,470,7.07433134882231,Stop A (normal convergence): rel_imp flat 21 iters (≥10) AND contraction_ratio=0.0680 < 0.1,False
+2,GPU-PSO,2,500,7.074323501099176,approx_hold_final,True,0.7,470,7.07433134882231,Stop A (normal convergence): rel_imp flat 21 iters (≥10) AND contraction_ratio=0.0680 < 0.1,False
+2,GPU-PSO,2,750,7.074258105663382,approx_hold_final,True,0.7,470,7.07433134882231,Stop A (normal convergence): rel_imp flat 21 iters (≥10) AND contraction_ratio=0.0680 < 0.1,False
+2,GPU-PSO,2,1000,7.07419271425774,approx_hold_final,True,0.7,470,7.07433134882231,Stop A (normal convergence): rel_imp flat 21 iters (≥10) AND contraction_ratio=0.0680 < 0.1,False
+2,GPU-PSO,2,1500,7.074061943535919,approx_hold_final,True,0.7,470,7.07433134882231,Stop A (normal convergence): rel_imp flat 21 iters (≥10) AND contraction_ratio=0.0680 < 0.1,False
+2,GPU-PSO,2,2000,7.073931188931725,approx_hold_final,True,0.7,470,7.07433134882231,Stop A (normal convergence): rel_imp flat 21 iters (≥10) AND contraction_ratio=0.0680 < 0.1,False
+2,GPU-PSO,2,3000,7.0736697280682765,approx_hold_final,True,0.7,470,7.07433134882231,Stop A (normal convergence): rel_imp flat 21 iters (≥10) AND contraction_ratio=0.0680 < 0.1,False
+2,GPU-PSO,2,5000,7.073146999665525,approx_hold_final,True,0.7,470,7.07433134882231,Stop A (normal convergence): rel_imp flat 21 iters (≥10) AND contraction_ratio=0.0680 < 0.1,False
+2,GPU-PSO,2,7500,7.072493951481078,approx_hold_final,True,0.7,470,7.07433134882231,Stop A (normal convergence): rel_imp flat 21 iters (≥10) AND contraction_ratio=0.0680 < 0.1,False
+2,GPU-PSO,2,10000,7.071841305641792,approx_hold_final,True,0.7,470,7.07433134882231,Stop A (normal convergence): rel_imp flat 21 iters (≥10) AND contraction_ratio=0.0680 < 0.1,False
+2,GPU-PSO,2,15000,7.070537220007312,approx_hold_final,True,0.7,470,7.07433134882231,Stop A (normal convergence): rel_imp flat 21 iters (≥10) AND contraction_ratio=0.0680 < 0.1,False
+2,GPU-PSO,3,100,7.550089830265035,observed,False,1.0,345,7.28186761911273,Stop A (normal convergence): rel_imp flat 20 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False
+2,GPU-PSO,3,250,7.28186761911273,observed,False,1.0,345,7.28186761911273,Stop A (normal convergence): rel_imp flat 20 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False
+2,GPU-PSO,3,500,7.281867619112729,approx_hold_final,True,0.7,345,7.28186761911273,Stop A (normal convergence): rel_imp flat 20 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False
+2,GPU-PSO,3,750,7.281867619112729,approx_hold_final,True,0.7,345,7.28186761911273,Stop A (normal convergence): rel_imp flat 20 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False
+2,GPU-PSO,3,1000,7.281867619112729,approx_hold_final,True,0.7,345,7.28186761911273,Stop A (normal convergence): rel_imp flat 20 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False
+2,GPU-PSO,3,1500,7.281867619112729,approx_hold_final,True,0.7,345,7.28186761911273,Stop A (normal convergence): rel_imp flat 20 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False
+2,GPU-PSO,3,2000,7.281867619112729,approx_hold_final,True,0.7,345,7.28186761911273,Stop A (normal convergence): rel_imp flat 20 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False
+2,GPU-PSO,3,3000,7.281867619112729,approx_hold_final,True,0.7,345,7.28186761911273,Stop A (normal convergence): rel_imp flat 20 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False
+2,GPU-PSO,3,5000,7.281867619112729,approx_hold_final,True,0.7,345,7.28186761911273,Stop A (normal convergence): rel_imp flat 20 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False
+2,GPU-PSO,3,7500,7.281867619112729,approx_hold_final,True,0.7,345,7.28186761911273,Stop A (normal convergence): rel_imp flat 20 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False
+2,GPU-PSO,3,10000,7.281867619112729,approx_hold_final,True,0.7,345,7.28186761911273,Stop A (normal convergence): rel_imp flat 20 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False
+2,GPU-PSO,3,15000,7.281867619112729,approx_hold_final,True,0.7,345,7.28186761911273,Stop A (normal convergence): rel_imp flat 20 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False
+2,GPU-PSO,5,100,7.84599483806607,observed,False,1.0,365,7.592209992526448,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0064 < 0.1,False
+2,GPU-PSO,5,250,7.628490434379466,observed,False,1.0,365,7.592209992526448,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0064 < 0.1,False
+2,GPU-PSO,5,500,7.591755182961608,approx_hold_final,True,0.7,365,7.592209992526448,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0064 < 0.1,False
+2,GPU-PSO,5,750,7.590913422598543,approx_hold_final,True,0.7,365,7.592209992526448,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0064 < 0.1,False
+2,GPU-PSO,5,1000,7.590072284666098,approx_hold_final,True,0.7,365,7.592209992526448,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0064 < 0.1,False
+2,GPU-PSO,5,1500,7.588391874252412,approx_hold_final,True,0.7,365,7.592209992526448,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0064 < 0.1,False
+2,GPU-PSO,5,2000,7.586713948042635,approx_hold_final,True,0.7,365,7.592209992526448,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0064 < 0.1,False
+2,GPU-PSO,5,3000,7.583365533550326,approx_hold_final,True,0.7,365,7.592209992526448,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0064 < 0.1,False
+2,GPU-PSO,5,5000,7.576698353786913,approx_hold_final,True,0.7,365,7.592209992526448,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0064 < 0.1,False
+2,GPU-PSO,5,7500,7.568419670736072,approx_hold_final,True,0.7,365,7.592209992526448,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0064 < 0.1,False
+2,GPU-PSO,5,10000,7.560202000220917,approx_hold_final,True,0.7,365,7.592209992526448,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0064 < 0.1,False
+2,GPU-PSO,5,15000,7.543947901502031,approx_hold_final,True,0.7,365,7.592209992526448,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0064 < 0.1,False
+2,GPU-PSO,8,100,2.1059536053619667,observed,False,1.0,1674,0.9509798549994976,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0873 < 0.1,False
+2,GPU-PSO,8,250,1.3248044014794063,observed,False,1.0,1674,0.9509798549994976,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0873 < 0.1,False
+2,GPU-PSO,8,500,1.0590347612599038,observed,False,1.0,1674,0.9509798549994976,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0873 < 0.1,False
+2,GPU-PSO,8,750,1.0038051406705701,observed,False,1.0,1674,0.9509798549994976,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0873 < 0.1,False
+2,GPU-PSO,8,1000,1.0038051406705701,observed,False,1.0,1674,0.9509798549994976,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0873 < 0.1,False
+2,GPU-PSO,8,1500,0.9634981076012443,observed,False,1.0,1674,0.9509798549994976,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0873 < 0.1,False
+2,GPU-PSO,8,2000,0.9507743458347696,approx_hold_final,True,0.7,1674,0.9509798549994976,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0873 < 0.1,False
+2,GPU-PSO,8,3000,0.9501457948386094,approx_hold_final,True,0.7,1674,0.9509798549994976,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0873 < 0.1,False
+2,GPU-PSO,8,5000,0.9488970014218732,approx_hold_final,True,0.7,1674,0.9509798549994976,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0873 < 0.1,False
+2,GPU-PSO,8,7500,0.9473514625013779,approx_hold_final,True,0.7,1674,0.9509798549994976,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0873 < 0.1,False
+2,GPU-PSO,8,10000,0.945822917181208,approx_hold_final,True,0.7,1674,0.9509798549994976,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0873 < 0.1,False
+2,GPU-PSO,8,15000,0.9428160620001678,approx_hold_final,True,0.7,1674,0.9509798549994976,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0873 < 0.1,False
+2,GPU-PSO,10,100,1.4298241710807815,observed,False,1.0,3890,1.0510736147505837,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0860 < 0.1,False
+2,GPU-PSO,10,250,1.3170323409765259,observed,False,1.0,3890,1.0510736147505837,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0860 < 0.1,False
+2,GPU-PSO,10,500,1.176706415102339,observed,False,1.0,3890,1.0510736147505837,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0860 < 0.1,False
+2,GPU-PSO,10,750,1.1512947480651028,observed,False,1.0,3890,1.0510736147505837,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0860 < 0.1,False
+2,GPU-PSO,10,1000,1.129829613877223,observed,False,1.0,3890,1.0510736147505837,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0860 < 0.1,False
+2,GPU-PSO,10,1500,1.1137780692572343,observed,False,1.0,3890,1.0510736147505837,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0860 < 0.1,False
+2,GPU-PSO,10,2000,1.0990626417950515,observed,False,1.0,3890,1.0510736147505837,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0860 < 0.1,False
+2,GPU-PSO,10,3000,1.0703168195887474,observed,False,1.0,3890,1.0510736147505837,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0860 < 0.1,False
+2,GPU-PSO,10,5000,1.0508627764512795,approx_hold_final,True,0.7,3890,1.0510736147505837,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0860 < 0.1,False
+2,GPU-PSO,10,7500,1.0503889474731345,approx_hold_final,True,0.7,3890,1.0510736147505837,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0860 < 0.1,False
+2,GPU-PSO,10,10000,1.0499165444309042,approx_hold_final,True,0.7,3890,1.0510736147505837,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0860 < 0.1,False
+2,GPU-PSO,10,15000,1.0489759990023155,approx_hold_final,True,0.7,3890,1.0510736147505837,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0860 < 0.1,False
+2,GPU-PSO,20,100,1.3718193599044404,observed,False,1.0,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False
+2,GPU-PSO,20,250,0.8322250617687144,observed,False,1.0,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False
+2,GPU-PSO,20,500,0.7099599728850722,observed,False,1.0,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False
+2,GPU-PSO,20,750,0.687255785528866,observed,False,1.0,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False
+2,GPU-PSO,20,1000,0.6762826693874738,observed,False,1.0,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False
+2,GPU-PSO,20,1500,0.6755665136696328,observed,False,1.0,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False
+2,GPU-PSO,20,2000,0.6678626461166989,observed,False,1.0,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False
+2,GPU-PSO,20,3000,0.667760045880422,approx_hold_final,True,0.7,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False
+2,GPU-PSO,20,5000,0.6675545446668447,approx_hold_final,True,0.7,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False
+2,GPU-PSO,20,7500,0.6672982614624715,approx_hold_final,True,0.7,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False
+2,GPU-PSO,20,10000,0.6670426359153415,approx_hold_final,True,0.7,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False
+2,GPU-PSO,20,15000,0.666533351046593,approx_hold_final,True,0.7,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False
+2,GPU-PSO,40,100,18.52704871051427,observed,False,1.0,3268,0.712376969306783,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0858 < 0.1,False
+2,GPU-PSO,40,250,5.0143815354078765,observed,False,1.0,3268,0.712376969306783,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0858 < 0.1,False
+2,GPU-PSO,40,500,1.6072259719241808,observed,False,1.0,3268,0.712376969306783,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0858 < 0.1,False
+2,GPU-PSO,40,750,1.1434641382633455,observed,False,1.0,3268,0.712376969306783,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0858 < 0.1,False
+2,GPU-PSO,40,1000,1.1434641382633455,observed,False,1.0,3268,0.712376969306783,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0858 < 0.1,False
+2,GPU-PSO,40,1500,0.9332549313021211,observed,False,1.0,3268,0.712376969306783,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0858 < 0.1,False
+2,GPU-PSO,40,2000,0.8394017546124724,observed,False,1.0,3268,0.712376969306783,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0858 < 0.1,False
+2,GPU-PSO,40,3000,0.7319914416635023,observed,False,1.0,3268,0.712376969306783,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0858 < 0.1,False
+2,GPU-PSO,40,5000,0.7112222829577581,approx_hold_final,True,0.7,3268,0.712376969306783,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0858 < 0.1,False
+2,GPU-PSO,40,7500,0.7095775559348012,approx_hold_final,True,0.7,3268,0.712376969306783,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0858 < 0.1,False
+2,GPU-PSO,40,10000,0.7079584209591786,approx_hold_final,True,0.7,3268,0.712376969306783,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0858 < 0.1,False
+2,GPU-PSO,40,15000,0.7047953404912347,approx_hold_final,True,0.7,3268,0.712376969306783,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0858 < 0.1,False
+2,GPU-PSO,80,100,18.26861508212557,observed,False,1.0,6377,0.6405364747813745,Stop A (normal convergence): rel_imp flat 22 iters (≥10) AND contraction_ratio=0.0893 < 0.1,False
+2,GPU-PSO,80,250,9.645624322053893,observed,False,1.0,6377,0.6405364747813745,Stop A (normal convergence): rel_imp flat 22 iters (≥10) AND contraction_ratio=0.0893 < 0.1,False
+2,GPU-PSO,80,500,8.094955136334745,observed,False,1.0,6377,0.6405364747813745,Stop A (normal convergence): rel_imp flat 22 iters (≥10) AND contraction_ratio=0.0893 < 0.1,False
+2,GPU-PSO,80,750,6.220550703881987,observed,False,1.0,6377,0.6405364747813745,Stop A (normal convergence): rel_imp flat 22 iters (≥10) AND contraction_ratio=0.0893 < 0.1,False
+2,GPU-PSO,80,1000,6.220550703881987,observed,False,1.0,6377,0.6405364747813745,Stop A (normal convergence): rel_imp flat 22 iters (≥10) AND contraction_ratio=0.0893 < 0.1,False
+2,GPU-PSO,80,1500,6.220550703881987,observed,False,1.0,6377,0.6405364747813745,Stop A (normal convergence): rel_imp flat 22 iters (≥10) AND contraction_ratio=0.0893 < 0.1,False
+2,GPU-PSO,80,2000,4.614165276264082,observed,False,1.0,6377,0.6405364747813745,Stop A (normal convergence): rel_imp flat 22 iters (≥10) AND contraction_ratio=0.0893 < 0.1,False
+2,GPU-PSO,80,3000,1.18816011794423,observed,False,1.0,6377,0.6405364747813745,Stop A (normal convergence): rel_imp flat 22 iters (≥10) AND contraction_ratio=0.0893 < 0.1,False
+2,GPU-PSO,80,5000,0.7511556404522185,observed,False,1.0,6377,0.6405364747813745,Stop A (normal convergence): rel_imp flat 22 iters (≥10) AND contraction_ratio=0.0893 < 0.1,False
+2,GPU-PSO,80,7500,0.6400205186777114,approx_hold_final,True,0.7,6377,0.6405364747813745,Stop A (normal convergence): rel_imp flat 22 iters (≥10) AND contraction_ratio=0.0893 < 0.1,False
+2,GPU-PSO,80,10000,0.6388818354338931,approx_hold_final,True,0.7,6377,0.6405364747813745,Stop A (normal convergence): rel_imp flat 22 iters (≥10) AND contraction_ratio=0.0893 < 0.1,False
+2,GPU-PSO,80,15000,0.6366450106595324,approx_hold_final,True,0.7,6377,0.6405364747813745,Stop A (normal convergence): rel_imp flat 22 iters (≥10) AND contraction_ratio=0.0893 < 0.1,False
+2,GPU-PSO,120,100,14.007665013404218,observed,False,1.0,5575,1.3281608857819354,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,120,250,14.007665013404218,observed,False,1.0,5575,1.3281608857819354,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,120,500,6.937107396416968,observed,False,1.0,5575,1.3281608857819354,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,120,750,6.937107396416968,observed,False,1.0,5575,1.3281608857819354,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,120,1000,5.828956241888792,observed,False,1.0,5575,1.3281608857819354,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,120,1500,5.828956241888792,observed,False,1.0,5575,1.3281608857819354,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,120,2000,2.137717939938228,observed,False,1.0,5575,1.3281608857819354,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,120,3000,1.5666984721985333,observed,False,1.0,5575,1.3281608857819354,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,120,5000,1.3281608857819354,observed,False,1.0,5575,1.3281608857819354,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,120,7500,1.326897444648408,approx_hold_final,True,0.6,5575,1.3281608857819354,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,120,10000,1.3252685644118396,approx_hold_final,True,0.6,5575,1.3281608857819354,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,120,15000,1.3220509024080416,approx_hold_final,True,0.6,5575,1.3281608857819354,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,160,100,16.313699237831493,observed,False,1.0,8922,3.0949436180968997,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,160,250,16.313699237831493,observed,False,1.0,8922,3.0949436180968997,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,160,500,15.37634834276688,observed,False,1.0,8922,3.0949436180968997,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,160,750,8.060067219563054,observed,False,1.0,8922,3.0949436180968997,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,160,1000,8.060067219563054,observed,False,1.0,8922,3.0949436180968997,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,160,1500,7.414749356609255,observed,False,1.0,8922,3.0949436180968997,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,160,2000,6.820252089500715,observed,False,1.0,8922,3.0949436180968997,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,160,3000,4.656128645283337,observed,False,1.0,8922,3.0949436180968997,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,160,5000,4.012060693715533,observed,False,1.0,8922,3.0949436180968997,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,160,7500,3.0949436180968997,observed,False,1.0,8922,3.0949436180968997,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,160,10000,3.0931544963255186,approx_hold_final,True,0.6,8922,3.0949436180968997,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,160,15000,3.0849458944717525,approx_hold_final,True,0.6,8922,3.0949436180968997,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,210,100,30.947702809126277,observed,False,1.0,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,210,250,16.289745934205307,observed,False,1.0,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,210,500,15.00019761386714,observed,False,1.0,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,210,750,13.252404464857053,observed,False,1.0,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,210,1000,13.252404464857053,observed,False,1.0,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,210,1500,3.9059530815597325,observed,False,1.0,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,210,2000,3.038263567358153,observed,False,1.0,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,210,3000,1.02475792903976,observed,False,1.0,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,210,5000,0.8547626985936503,approx_hold_final,True,0.6,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,210,7500,0.8530577637481198,approx_hold_final,True,0.6,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,210,10000,0.8513755303120896,approx_hold_final,True,0.6,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-PSO,210,15000,0.8480779626054871,approx_hold_final,True,0.6,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,2,100,7.31407535471486,observed,False,1.0,340,7.07433134882231,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0063 < 0.1,False
+2,GPU-CMAES,2,250,7.07433134882231,observed,False,1.0,340,7.07433134882231,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0063 < 0.1,False
+2,GPU-CMAES,2,500,7.074061333637759,approx_hold_final,True,0.7,340,7.07433134882231,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0063 < 0.1,False
+2,GPU-CMAES,2,750,7.073639572453128,approx_hold_final,True,0.7,340,7.07433134882231,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0063 < 0.1,False
+2,GPU-CMAES,2,1000,7.0732179789430205,approx_hold_final,True,0.7,340,7.07433134882231,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0063 < 0.1,False
+2,GPU-CMAES,2,1500,7.072375294679764,approx_hold_final,True,0.7,340,7.07433134882231,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0063 < 0.1,False
+2,GPU-CMAES,2,2000,7.071533280315026,approx_hold_final,True,0.7,340,7.07433134882231,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0063 < 0.1,False
+2,GPU-CMAES,2,3000,7.06985125915136,approx_hold_final,True,0.7,340,7.07433134882231,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0063 < 0.1,False
+2,GPU-CMAES,2,5000,7.066495232202772,approx_hold_final,True,0.7,340,7.07433134882231,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0063 < 0.1,False
+2,GPU-CMAES,2,7500,7.0623151836005515,approx_hold_final,True,0.7,340,7.07433134882231,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0063 < 0.1,False
+2,GPU-CMAES,2,10000,7.058151723416589,approx_hold_final,True,0.7,340,7.07433134882231,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0063 < 0.1,False
+2,GPU-CMAES,2,15000,7.049874305241796,approx_hold_final,True,0.7,340,7.07433134882231,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0063 < 0.1,False
+2,GPU-CMAES,3,100,7.304666179957823,observed,False,1.0,600,7.230556475781328,Stop A (normal convergence): rel_imp flat 13 iters (≥10) AND contraction_ratio=0.0803 < 0.1,False
+2,GPU-CMAES,3,250,7.241291624287034,observed,False,1.0,600,7.230556475781328,Stop A (normal convergence): rel_imp flat 13 iters (≥10) AND contraction_ratio=0.0803 < 0.1,False
+2,GPU-CMAES,3,500,7.230556475781328,observed,False,1.0,600,7.230556475781328,Stop A (normal convergence): rel_imp flat 13 iters (≥10) AND contraction_ratio=0.0803 < 0.1,False
+2,GPU-CMAES,3,750,7.2305056639796526,approx_hold_final,True,0.7,600,7.230556475781328,Stop A (normal convergence): rel_imp flat 13 iters (≥10) AND contraction_ratio=0.0803 < 0.1,False
+2,GPU-CMAES,3,1000,7.230420982933448,approx_hold_final,True,0.7,600,7.230556475781328,Stop A (normal convergence): rel_imp flat 13 iters (≥10) AND contraction_ratio=0.0803 < 0.1,False
+2,GPU-CMAES,3,1500,7.230251640676384,approx_hold_final,True,0.7,600,7.230556475781328,Stop A (normal convergence): rel_imp flat 13 iters (≥10) AND contraction_ratio=0.0803 < 0.1,False
+2,GPU-CMAES,3,2000,7.230082324863004,approx_hold_final,True,0.7,600,7.230556475781328,Stop A (normal convergence): rel_imp flat 13 iters (≥10) AND contraction_ratio=0.0803 < 0.1,False
+2,GPU-CMAES,3,3000,7.229743772550782,approx_hold_final,True,0.7,600,7.230556475781328,Stop A (normal convergence): rel_imp flat 13 iters (≥10) AND contraction_ratio=0.0803 < 0.1,False
+2,GPU-CMAES,3,5000,7.229066985068901,approx_hold_final,True,0.7,600,7.230556475781328,Stop A (normal convergence): rel_imp flat 13 iters (≥10) AND contraction_ratio=0.0803 < 0.1,False
+2,GPU-CMAES,3,7500,7.22822159501847,approx_hold_final,True,0.7,600,7.230556475781328,Stop A (normal convergence): rel_imp flat 13 iters (≥10) AND contraction_ratio=0.0803 < 0.1,False
+2,GPU-CMAES,3,10000,7.227376864822446,approx_hold_final,True,0.7,600,7.230556475781328,Stop A (normal convergence): rel_imp flat 13 iters (≥10) AND contraction_ratio=0.0803 < 0.1,False
+2,GPU-CMAES,3,15000,7.225689381933875,approx_hold_final,True,0.7,600,7.230556475781328,Stop A (normal convergence): rel_imp flat 13 iters (≥10) AND contraction_ratio=0.0803 < 0.1,False
+2,GPU-CMAES,5,100,7.655344808589084,observed,False,1.0,550,7.616595617498358,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0874 < 0.1,False
+2,GPU-CMAES,5,250,7.616595617498358,observed,False,1.0,550,7.616595617498358,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0874 < 0.1,False
+2,GPU-CMAES,5,500,7.616595617498358,observed,False,1.0,550,7.616595617498358,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0874 < 0.1,False
+2,GPU-CMAES,5,750,7.616595617498358,approx_hold_final,True,0.7,550,7.616595617498358,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0874 < 0.1,False
+2,GPU-CMAES,5,1000,7.616595617498358,approx_hold_final,True,0.7,550,7.616595617498358,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0874 < 0.1,False
+2,GPU-CMAES,5,1500,7.616595617498358,approx_hold_final,True,0.7,550,7.616595617498358,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0874 < 0.1,False
+2,GPU-CMAES,5,2000,7.616595617498358,approx_hold_final,True,0.7,550,7.616595617498358,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0874 < 0.1,False
+2,GPU-CMAES,5,3000,7.616595617498358,approx_hold_final,True,0.7,550,7.616595617498358,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0874 < 0.1,False
+2,GPU-CMAES,5,5000,7.616595617498358,approx_hold_final,True,0.7,550,7.616595617498358,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0874 < 0.1,False
+2,GPU-CMAES,5,7500,7.616595617498358,approx_hold_final,True,0.7,550,7.616595617498358,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0874 < 0.1,False
+2,GPU-CMAES,5,10000,7.616595617498358,approx_hold_final,True,0.7,550,7.616595617498358,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0874 < 0.1,False
+2,GPU-CMAES,5,15000,7.616595617498358,approx_hold_final,True,0.7,550,7.616595617498358,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0874 < 0.1,False
+2,GPU-CMAES,8,100,1.577613499263916,observed,False,1.0,1720,0.9585280275647811,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0927 < 0.1,False
+2,GPU-CMAES,8,250,1.577613499263916,observed,False,1.0,1720,0.9585280275647811,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0927 < 0.1,False
+2,GPU-CMAES,8,500,1.1311121162345579,observed,False,1.0,1720,0.9585280275647811,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0927 < 0.1,False
+2,GPU-CMAES,8,750,1.0235734729631547,observed,False,1.0,1720,0.9585280275647811,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0927 < 0.1,False
+2,GPU-CMAES,8,1000,0.9706293551809272,observed,False,1.0,1720,0.9585280275647811,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0927 < 0.1,False
+2,GPU-CMAES,8,1500,0.9585280275647811,observed,False,1.0,1720,0.9585280275647811,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0927 < 0.1,False
+2,GPU-CMAES,8,2000,0.9584816286815532,approx_hold_final,True,0.7,1720,0.9585280275647811,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0927 < 0.1,False
+2,GPU-CMAES,8,3000,0.9583160405819344,approx_hold_final,True,0.7,1720,0.9585280275647811,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0927 < 0.1,False
+2,GPU-CMAES,8,5000,0.9579854364627272,approx_hold_final,True,0.7,1720,0.9585280275647811,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0927 < 0.1,False
+2,GPU-CMAES,8,7500,0.9575732516996424,approx_hold_final,True,0.7,1720,0.9585280275647811,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0927 < 0.1,False
+2,GPU-CMAES,8,10000,0.9571622530598212,approx_hold_final,True,0.7,1720,0.9585280275647811,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0927 < 0.1,False
+2,GPU-CMAES,8,15000,0.956343800506804,approx_hold_final,True,0.7,1720,0.9585280275647811,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0927 < 0.1,False
+2,GPU-CMAES,10,100,1.4581678962410998,observed,False,1.0,3750,1.0524044910032269,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0324 < 0.1,False
+2,GPU-CMAES,10,250,1.2329070289857462,observed,False,1.0,3750,1.0524044910032269,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0324 < 0.1,False
+2,GPU-CMAES,10,500,1.1868421530017317,observed,False,1.0,3750,1.0524044910032269,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0324 < 0.1,False
+2,GPU-CMAES,10,750,1.172074303802046,observed,False,1.0,3750,1.0524044910032269,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0324 < 0.1,False
+2,GPU-CMAES,10,1000,1.1310107232359004,observed,False,1.0,3750,1.0524044910032269,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0324 < 0.1,False
+2,GPU-CMAES,10,1500,1.1009535768664003,observed,False,1.0,3750,1.0524044910032269,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0324 < 0.1,False
+2,GPU-CMAES,10,2000,1.082875108794326,observed,False,1.0,3750,1.0524044910032269,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0324 < 0.1,False
+2,GPU-CMAES,10,3000,1.0570962143523255,observed,False,1.0,3750,1.0524044910032269,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0324 < 0.1,False
+2,GPU-CMAES,10,5000,1.0522484302952368,approx_hold_final,True,0.7,3750,1.0524044910032269,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0324 < 0.1,False
+2,GPU-CMAES,10,7500,1.0519367715705328,approx_hold_final,True,0.7,3750,1.0524044910032269,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0324 < 0.1,False
+2,GPU-CMAES,10,10000,1.0516257287514694,approx_hold_final,True,0.7,3750,1.0524044910032269,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0324 < 0.1,False
+2,GPU-CMAES,10,15000,1.0510054859640146,approx_hold_final,True,0.7,3750,1.0524044910032269,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0324 < 0.1,False
+2,GPU-CMAES,20,100,1.743508921198274,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False
+2,GPU-CMAES,20,250,0.7478301492245416,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False
+2,GPU-CMAES,20,500,0.7478301492245416,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False
+2,GPU-CMAES,20,750,0.7478301492245416,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False
+2,GPU-CMAES,20,1000,0.7478301492245416,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False
+2,GPU-CMAES,20,1500,0.7058910231209556,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False
+2,GPU-CMAES,20,2000,0.7058910231209556,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False
+2,GPU-CMAES,20,3000,0.6874042180813302,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False
+2,GPU-CMAES,20,5000,0.6634748933169895,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False
+2,GPU-CMAES,20,7500,0.645468113287219,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False
+2,GPU-CMAES,20,10000,0.6397718835785893,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False
+2,GPU-CMAES,20,15000,0.6355321116068537,approx_hold_final,True,0.7,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False
+2,GPU-CMAES,40,100,2.6456973547294624,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False
+2,GPU-CMAES,40,250,1.0642382542012687,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False
+2,GPU-CMAES,40,500,1.0642382542012687,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False
+2,GPU-CMAES,40,750,1.0642382542012687,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False
+2,GPU-CMAES,40,1000,1.0642382542012687,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False
+2,GPU-CMAES,40,1500,1.0642382542012687,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False
+2,GPU-CMAES,40,2000,0.9987808329303917,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False
+2,GPU-CMAES,40,3000,0.9623597553775921,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False
+2,GPU-CMAES,40,5000,0.7486023874178538,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False
+2,GPU-CMAES,40,7500,0.6332539144938834,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False
+2,GPU-CMAES,40,10000,0.54955577137993,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False
+2,GPU-CMAES,40,15000,0.47093450738067966,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False
+2,GPU-CMAES,80,100,1.5525730159011937,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,80,250,1.5525730159011937,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,80,500,1.5525730159011937,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,80,750,1.5525730159011937,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,80,1000,1.5525730159011937,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,80,1500,0.9981308817299775,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,80,2000,0.9618163951032268,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,80,3000,0.9618163951032268,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,80,5000,0.6431043053045071,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,80,7500,0.633496162359327,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,80,10000,0.57429425715956,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,80,15000,0.49925748715373175,approx_hold_final,True,0.6,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,120,100,5.469186522439438,observed,False,1.0,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,120,250,2.4974871297710415,observed,False,1.0,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,120,500,1.8595291151899842,observed,False,1.0,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,120,750,1.7597589132447178,observed,False,1.0,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,120,1000,1.7597589132447178,observed,False,1.0,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,120,1500,1.5620464059486054,observed,False,1.0,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,120,2000,1.5620464059486054,observed,False,1.0,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,120,3000,1.3685548715678366,observed,False,1.0,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,120,5000,0.9204080799129662,observed,False,1.0,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,120,7500,0.7978576538914758,observed,False,1.0,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,120,10000,0.7960649198098078,approx_hold_final,True,0.6,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,120,15000,0.7923394416059599,approx_hold_final,True,0.6,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,160,100,5.893935223360675,observed,False,1.0,4250,1.7434160366157505,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,160,250,5.230891273895744,observed,False,1.0,4250,1.7434160366157505,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,160,500,2.251398802595965,observed,False,1.0,4250,1.7434160366157505,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,160,750,2.251398802595965,observed,False,1.0,4250,1.7434160366157505,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,160,1000,2.026721978184873,observed,False,1.0,4250,1.7434160366157505,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,160,1500,2.026721978184873,observed,False,1.0,4250,1.7434160366157505,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,160,2000,1.7434160366157505,observed,False,1.0,4250,1.7434160366157505,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,160,3000,1.7434160366157505,observed,False,1.0,4250,1.7434160366157505,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,160,5000,1.7434160366157505,approx_hold_final,True,0.6,4250,1.7434160366157505,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,160,7500,1.7434160366157505,approx_hold_final,True,0.6,4250,1.7434160366157505,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,160,10000,1.7434160366157505,approx_hold_final,True,0.6,4250,1.7434160366157505,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,160,15000,1.7434160366157505,approx_hold_final,True,0.6,4250,1.7434160366157505,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,210,100,16.088932294293,observed,False,1.0,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,210,250,9.04997687055604,observed,False,1.0,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,210,500,2.946568865669251,observed,False,1.0,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,210,750,2.946568865669251,observed,False,1.0,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,210,1000,1.604244830919884,observed,False,1.0,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,210,1500,1.604244830919884,observed,False,1.0,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,210,2000,1.604244830919884,observed,False,1.0,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,210,3000,1.604244830919884,observed,False,1.0,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,210,5000,1.5420893636199833,observed,False,1.0,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,210,7500,1.5419150632735663,approx_hold_final,True,0.6,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,210,10000,1.5416429818808663,approx_hold_final,True,0.6,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-CMAES,210,15000,1.5410997795461545,approx_hold_final,True,0.6,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False
+2,GPU-DE,2,100,4.193701127654255,approx_seed_transfer,True,0.35,440,3.979853570864475,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,2,250,3.979853570864475,approx_seed_transfer,True,0.35,440,3.979853570864475,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,2,500,3.979853570864475,approx_seed_transfer,True,0.35,440,3.979853570864475,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,2,750,3.979853570864475,approx_seed_transfer,True,0.35,440,3.979853570864475,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,2,1000,3.979853570864475,approx_seed_transfer,True,0.35,440,3.979853570864475,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,2,1500,3.979853570864475,approx_seed_transfer,True,0.35,440,3.979853570864475,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,2,2000,3.979853570864475,approx_seed_transfer,True,0.35,440,3.979853570864475,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,2,3000,3.979853570864475,approx_seed_transfer,True,0.35,440,3.979853570864475,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,2,5000,3.979853570864475,approx_seed_transfer,True,0.35,440,3.979853570864475,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,2,7500,3.979853570864475,approx_seed_transfer,True,0.35,440,3.979853570864475,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,2,10000,3.979853570864475,approx_seed_transfer,True,0.35,440,3.979853570864475,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,2,15000,3.979853570864475,approx_seed_transfer,True,0.35,440,3.979853570864475,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,3,100,13.893070621310564,approx_seed_transfer,True,0.35,1020,6.734706375765051,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,3,250,13.893070621310564,approx_seed_transfer,True,0.35,1020,6.734706375765051,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,3,500,6.943265969556936,approx_seed_transfer,True,0.35,1020,6.734706375765051,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,3,750,6.767244735870249,approx_seed_transfer,True,0.35,1020,6.734706375765051,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,3,1000,6.734706375765051,approx_seed_transfer,True,0.35,1020,6.734706375765051,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,3,1500,6.734706375765051,approx_seed_transfer,True,0.35,1020,6.734706375765051,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,3,2000,6.734706375765051,approx_seed_transfer,True,0.35,1020,6.734706375765051,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,3,3000,6.734706375765051,approx_seed_transfer,True,0.35,1020,6.734706375765051,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,3,5000,6.734706375765051,approx_seed_transfer,True,0.35,1020,6.734706375765051,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,3,7500,6.734706375765051,approx_seed_transfer,True,0.35,1020,6.734706375765051,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,3,10000,6.734706375765051,approx_seed_transfer,True,0.35,1020,6.734706375765051,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,3,15000,6.734706375765051,approx_seed_transfer,True,0.35,1020,6.734706375765051,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,5,100,60.8079877662337,approx_seed_transfer,True,0.35,2275,7.9175472584853015,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,5,250,60.8079877662337,approx_seed_transfer,True,0.35,2275,7.9175472584853015,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,5,500,13.680675174339678,approx_seed_transfer,True,0.35,2275,7.9175472584853015,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,5,750,10.481515616201484,approx_seed_transfer,True,0.35,2275,7.9175472584853015,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,5,1000,10.481515616201484,approx_seed_transfer,True,0.35,2275,7.9175472584853015,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,5,1500,8.358668083667473,approx_seed_transfer,True,0.35,2275,7.9175472584853015,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,5,2000,7.933610922610426,approx_seed_transfer,True,0.35,2275,7.9175472584853015,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,5,3000,7.9175472584853015,approx_seed_transfer,True,0.35,2275,7.9175472584853015,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,5,5000,7.9175472584853015,approx_seed_transfer,True,0.35,2275,7.9175472584853015,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,5,7500,7.9175472584853015,approx_seed_transfer,True,0.35,2275,7.9175472584853015,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,5,10000,7.9175472584853015,approx_seed_transfer,True,0.35,2275,7.9175472584853015,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,5,15000,7.9175472584853015,approx_seed_transfer,True,0.35,2275,7.9175472584853015,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,8,100,7.192241079220478,approx_seed_transfer,True,0.35,4400,0.9239565331796394,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,8,250,6.346407444111221,approx_seed_transfer,True,0.35,4400,0.9239565331796394,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,8,500,2.8896009651936483,approx_seed_transfer,True,0.35,4400,0.9239565331796394,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,8,750,1.9139221796645707,approx_seed_transfer,True,0.35,4400,0.9239565331796394,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,8,1000,1.6500086767701834,approx_seed_transfer,True,0.35,4400,0.9239565331796394,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,8,1500,0.9256398238628181,approx_seed_transfer,True,0.35,4400,0.9239565331796394,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,8,2000,0.9256398238628181,approx_seed_transfer,True,0.35,4400,0.9239565331796394,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,8,3000,0.9256398238628181,approx_seed_transfer,True,0.35,4400,0.9239565331796394,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,8,5000,0.9239565331796394,approx_seed_transfer,True,0.35,4400,0.9239565331796394,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,8,7500,0.9239565331796394,approx_seed_transfer,True,0.35,4400,0.9239565331796394,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,8,10000,0.9239565331796394,approx_seed_transfer,True,0.35,4400,0.9239565331796394,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,8,15000,0.9239565331796394,approx_seed_transfer,True,0.35,4400,0.9239565331796394,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,10,100,6.3238005412325755,approx_seed_transfer,True,0.35,3300,1.576034830340989,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,10,250,6.214530830034808,approx_seed_transfer,True,0.35,3300,1.576034830340989,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,10,500,6.214530830034808,approx_seed_transfer,True,0.35,3300,1.576034830340989,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,10,750,1.8205924193749428,approx_seed_transfer,True,0.35,3300,1.576034830340989,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,10,1000,1.576034830340989,approx_seed_transfer,True,0.35,3300,1.576034830340989,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,10,1500,1.576034830340989,approx_seed_transfer,True,0.35,3300,1.576034830340989,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,10,2000,1.576034830340989,approx_seed_transfer,True,0.35,3300,1.576034830340989,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,10,3000,1.576034830340989,approx_seed_transfer,True,0.35,3300,1.576034830340989,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,10,5000,1.576034830340989,approx_seed_transfer,True,0.35,3300,1.576034830340989,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,10,7500,1.576034830340989,approx_seed_transfer,True,0.35,3300,1.576034830340989,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,10,10000,1.576034830340989,approx_seed_transfer,True,0.35,3300,1.576034830340989,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,10,15000,1.576034830340989,approx_seed_transfer,True,0.35,3300,1.576034830340989,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,20,100,1.2847080355175562,approx_seed_transfer,True,0.35,14200,0.6283787590571126,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,20,250,1.2847080355175562,approx_seed_transfer,True,0.35,14200,0.6283787590571126,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,20,500,0.9930706239528315,approx_seed_transfer,True,0.35,14200,0.6283787590571126,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,20,750,0.7655028201636953,approx_seed_transfer,True,0.35,14200,0.6283787590571126,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,20,1000,0.7655028201636953,approx_seed_transfer,True,0.35,14200,0.6283787590571126,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,20,1500,0.7655028201636953,approx_seed_transfer,True,0.35,14200,0.6283787590571126,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,20,2000,0.7326468586506427,approx_seed_transfer,True,0.35,14200,0.6283787590571126,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,20,3000,0.7179569371755216,approx_seed_transfer,True,0.35,14200,0.6283787590571126,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,20,5000,0.689531140754131,approx_seed_transfer,True,0.35,14200,0.6283787590571126,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,20,7500,0.6620700320362889,approx_seed_transfer,True,0.35,14200,0.6283787590571126,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,20,10000,0.6406829964964915,approx_seed_transfer,True,0.35,14200,0.6283787590571126,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,20,15000,0.6283787590571126,approx_seed_transfer,True,0.35,14200,0.6283787590571126,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,40,100,10.170770426561084,approx_seed_transfer,True,0.35,16100,0.2978946248732075,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,40,250,4.855146508120274,approx_seed_transfer,True,0.35,16100,0.2978946248732075,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,40,500,1.7414220248380228,approx_seed_transfer,True,0.35,16100,0.2978946248732075,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,40,750,1.6800443395036393,approx_seed_transfer,True,0.35,16100,0.2978946248732075,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,40,1000,1.4557209778797044,approx_seed_transfer,True,0.35,16100,0.2978946248732075,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,40,1500,0.9069888809034315,approx_seed_transfer,True,0.35,16100,0.2978946248732075,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,40,2000,0.5689149204217349,approx_seed_transfer,True,0.35,16100,0.2978946248732075,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,40,3000,0.392550438665139,approx_seed_transfer,True,0.35,16100,0.2978946248732075,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,40,5000,0.392550438665139,approx_seed_transfer,True,0.35,16100,0.2978946248732075,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,40,7500,0.37094683912957177,approx_seed_transfer,True,0.35,16100,0.2978946248732075,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,40,10000,0.3327686951225656,approx_seed_transfer,True,0.35,16100,0.2978946248732075,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,40,15000,0.2978946248732075,approx_seed_transfer,True,0.35,16100,0.2978946248732075,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,80,100,27.564187070760894,approx_seed_transfer,True,0.35,7000,1.292617516583691,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,80,250,24.84729505243307,approx_seed_transfer,True,0.35,7000,1.292617516583691,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,80,500,24.84729505243307,approx_seed_transfer,True,0.35,7000,1.292617516583691,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,80,750,24.84729505243307,approx_seed_transfer,True,0.35,7000,1.292617516583691,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,80,1000,24.84729505243307,approx_seed_transfer,True,0.35,7000,1.292617516583691,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,80,1500,24.84729505243307,approx_seed_transfer,True,0.35,7000,1.292617516583691,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,80,2000,20.68293449291672,approx_seed_transfer,True,0.35,7000,1.292617516583691,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,80,3000,3.680209049440629,approx_seed_transfer,True,0.35,7000,1.292617516583691,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,80,5000,1.3361766456210846,approx_seed_transfer,True,0.35,7000,1.292617516583691,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,80,7500,1.292617516583691,approx_seed_transfer,True,0.35,7000,1.292617516583691,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,80,10000,1.292617516583691,approx_seed_transfer,True,0.35,7000,1.292617516583691,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,80,15000,1.292617516583691,approx_seed_transfer,True,0.35,7000,1.292617516583691,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,120,100,34.693437524195545,approx_seed_transfer,True,0.35,8150,2.5950505048772783,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,120,250,21.397166034683533,approx_seed_transfer,True,0.35,8150,2.5950505048772783,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,120,500,12.735157248897998,approx_seed_transfer,True,0.35,8150,2.5950505048772783,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,120,750,7.726039425403999,approx_seed_transfer,True,0.35,8150,2.5950505048772783,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,120,1000,7.082117183602272,approx_seed_transfer,True,0.35,8150,2.5950505048772783,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,120,1500,7.082117183602272,approx_seed_transfer,True,0.35,8150,2.5950505048772783,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,120,2000,4.477662326460528,approx_seed_transfer,True,0.35,8150,2.5950505048772783,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,120,3000,4.477662326460528,approx_seed_transfer,True,0.35,8150,2.5950505048772783,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,120,5000,3.365054577123409,approx_seed_transfer,True,0.35,8150,2.5950505048772783,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,120,7500,2.5950505048772783,approx_seed_transfer,True,0.35,8150,2.5950505048772783,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,120,10000,2.5950505048772783,approx_seed_transfer,True,0.35,8150,2.5950505048772783,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,120,15000,2.5950505048772783,approx_seed_transfer,True,0.35,8150,2.5950505048772783,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,160,100,18.530840578375148,approx_seed_transfer,True,0.35,4700,1.499260375328429,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,160,250,18.530840578375148,approx_seed_transfer,True,0.35,4700,1.499260375328429,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,160,500,18.530840578375148,approx_seed_transfer,True,0.35,4700,1.499260375328429,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,160,750,14.170192610266088,approx_seed_transfer,True,0.35,4700,1.499260375328429,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,160,1000,1.499260375328429,approx_seed_transfer,True,0.35,4700,1.499260375328429,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,160,1500,1.499260375328429,approx_seed_transfer,True,0.35,4700,1.499260375328429,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,160,2000,1.499260375328429,approx_seed_transfer,True,0.35,4700,1.499260375328429,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,160,3000,1.499260375328429,approx_seed_transfer,True,0.35,4700,1.499260375328429,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,160,5000,1.499260375328429,approx_seed_transfer,True,0.35,4700,1.499260375328429,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,160,7500,1.499260375328429,approx_seed_transfer,True,0.35,4700,1.499260375328429,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,160,10000,1.499260375328429,approx_seed_transfer,True,0.35,4700,1.499260375328429,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,160,15000,1.499260375328429,approx_seed_transfer,True,0.35,4700,1.499260375328429,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,210,100,37.88287051142916,approx_seed_transfer,True,0.35,12400,0.21398193545935876,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,210,250,37.88287051142916,approx_seed_transfer,True,0.35,12400,0.21398193545935876,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,210,500,27.98103905961238,approx_seed_transfer,True,0.35,12400,0.21398193545935876,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,210,750,25.608342000421917,approx_seed_transfer,True,0.35,12400,0.21398193545935876,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,210,1000,18.895504318719443,approx_seed_transfer,True,0.35,12400,0.21398193545935876,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,210,1500,4.7558269726148445,approx_seed_transfer,True,0.35,12400,0.21398193545935876,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,210,2000,4.194452276890621,approx_seed_transfer,True,0.35,12400,0.21398193545935876,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,210,3000,0.947025468067179,approx_seed_transfer,True,0.35,12400,0.21398193545935876,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,210,5000,0.2866843391187384,approx_seed_transfer,True,0.35,12400,0.21398193545935876,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,210,7500,0.2511639526429421,approx_seed_transfer,True,0.35,12400,0.21398193545935876,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,210,10000,0.21398193545935876,approx_seed_transfer,True,0.35,12400,0.21398193545935876,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True
+2,GPU-DE,210,15000,0.21398193545935876,approx_seed_transfer,True,0.35,12400,0.21398193545935876,"APPROXIMATED seed2 (ratio_peers): seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']",True

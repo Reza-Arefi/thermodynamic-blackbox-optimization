@@ -1,0 +1,16 @@
+{
+    "method": "GPU-DE",
+    "dimension": 2,
+    "active_parameters": [
+        203,
+        190
+    ],
+    "loss": 1.1440481762578483,
+    "iterations": 107,
+    "evaluations": 1080,
+    "time_seconds": 5653.513517141342,
+    "stop_reason": "stagnation",
+    "gpu": 7,
+    "workers": 16,
+    "seed": 42
+}

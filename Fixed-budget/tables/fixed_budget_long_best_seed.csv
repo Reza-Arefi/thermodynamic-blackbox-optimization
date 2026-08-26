@@ -1,0 +1,397 @@
+seed,method,n_params,budget,best_loss,fill_kind,is_approx,confidence,run_total_evals,run_final_loss,stop_reason,approx_run,case
+42,GPU-PSO,2,100,8.012840331871848,observed,False,1.0,1500,0.7903757635872397,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0167 < 0.1,False,2P_203_200
+42,GPU-PSO,2,250,1.87572605576429,observed,False,1.0,1500,0.7903757635872397,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0167 < 0.1,False,2P_203_200
+42,GPU-PSO,2,500,1.3958793855544542,observed,False,1.0,1500,0.7903757635872397,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0167 < 0.1,False,2P_203_200
+42,GPU-PSO,2,750,0.8234323647498868,observed,False,1.0,1500,0.7903757635872397,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0167 < 0.1,False,2P_203_200
+42,GPU-PSO,2,1000,0.7988366626712904,observed,False,1.0,1500,0.7903757635872397,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0167 < 0.1,False,2P_203_200
+42,GPU-PSO,2,1500,0.7903757635872397,observed,False,1.0,1500,0.7903757635872397,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0167 < 0.1,False,2P_203_200
+42,GPU-PSO,2,2000,0.7902973479597092,approx_hold_final,True,0.7,1500,0.7903757635872397,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0167 < 0.1,False,2P_203_200
+42,GPU-PSO,2,3000,0.7901406722674886,approx_hold_final,True,0.7,1500,0.7903757635872397,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0167 < 0.1,False,2P_203_200
+42,GPU-PSO,2,5000,0.7898279421746625,approx_hold_final,True,0.7,1500,0.7903757635872397,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0167 < 0.1,False,2P_203_200
+42,GPU-PSO,2,7500,0.7894381916581854,approx_hold_final,True,0.7,1500,0.7903757635872397,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0167 < 0.1,False,2P_203_200
+42,GPU-PSO,2,10000,0.789049728382963,approx_hold_final,True,0.7,1500,0.7903757635872397,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0167 < 0.1,False,2P_203_200
+42,GPU-PSO,2,15000,0.7882766465646743,approx_hold_final,True,0.7,1500,0.7903757635872397,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0167 < 0.1,False,2P_203_200
+42,GPU-PSO,3,100,3.239327991294103,observed,False,1.0,1155,0.7898343760425908,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0776 < 0.1,False,3P_203_200_194
+42,GPU-PSO,3,250,0.8256920548997801,observed,False,1.0,1155,0.7898343760425908,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0776 < 0.1,False,3P_203_200_194
+42,GPU-PSO,3,500,0.8187761286479934,observed,False,1.0,1155,0.7898343760425908,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0776 < 0.1,False,3P_203_200_194
+42,GPU-PSO,3,750,0.7979054545793443,observed,False,1.0,1155,0.7898343760425908,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0776 < 0.1,False,3P_203_200_194
+42,GPU-PSO,3,1000,0.7900103291855326,observed,False,1.0,1155,0.7898343760425908,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0776 < 0.1,False,3P_203_200_194
+42,GPU-PSO,3,1500,0.7897848510535882,approx_hold_final,True,0.7,1155,0.7898343760425908,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0776 < 0.1,False,3P_203_200_194
+42,GPU-PSO,3,2000,0.7897131124483641,approx_hold_final,True,0.7,1155,0.7898343760425908,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0776 < 0.1,False,3P_203_200_194
+42,GPU-PSO,3,3000,0.789569765582713,approx_hold_final,True,0.7,1155,0.7898343760425908,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0776 < 0.1,False,3P_203_200_194
+42,GPU-PSO,3,5000,0.7892835924940584,approx_hold_final,True,0.7,1155,0.7898343760425908,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0776 < 0.1,False,3P_203_200_194
+42,GPU-PSO,3,7500,0.7889268501719822,approx_hold_final,True,0.7,1155,0.7898343760425908,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0776 < 0.1,False,3P_203_200_194
+42,GPU-PSO,3,10000,0.7885711870592437,approx_hold_final,True,0.7,1155,0.7898343760425908,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0776 < 0.1,False,3P_203_200_194
+42,GPU-PSO,3,15000,0.7878630854124522,approx_hold_final,True,0.7,1155,0.7898343760425908,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0776 < 0.1,False,3P_203_200_194
+42,GPU-PSO,5,100,2.1606826844756943,observed,False,1.0,1276,0.7557482700808255,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0753 < 0.1,False,5P_203_150_200_194_181
+42,GPU-PSO,5,250,0.9469228304709362,observed,False,1.0,1276,0.7557482700808255,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0753 < 0.1,False,5P_203_150_200_194_181
+42,GPU-PSO,5,500,0.8310917037960971,observed,False,1.0,1276,0.7557482700808255,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0753 < 0.1,False,5P_203_150_200_194_181
+42,GPU-PSO,5,750,0.7779945085390582,observed,False,1.0,1276,0.7557482700808255,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0753 < 0.1,False,5P_203_150_200_194_181
+42,GPU-PSO,5,1000,0.768684077556517,observed,False,1.0,1276,0.7557482700808255,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0753 < 0.1,False,5P_203_150_200_194_181
+42,GPU-PSO,5,1500,0.7556594912147286,approx_hold_final,True,0.7,1276,0.7557482700808255,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0753 < 0.1,False,5P_203_150_200_194_181
+42,GPU-PSO,5,2000,0.7554615748255724,approx_hold_final,True,0.7,1276,0.7557482700808255,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0753 < 0.1,False,5P_203_150_200_194_181
+42,GPU-PSO,5,3000,0.7550667788677867,approx_hold_final,True,0.7,1276,0.7557482700808255,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0753 < 0.1,False,5P_203_150_200_194_181
+42,GPU-PSO,5,5000,0.7542813173533134,approx_hold_final,True,0.7,1276,0.7557482700808255,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0753 < 0.1,False,5P_203_150_200_194_181
+42,GPU-PSO,5,7500,0.7533071854836967,approx_hold_final,True,0.7,1276,0.7557482700808255,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0753 < 0.1,False,5P_203_150_200_194_181
+42,GPU-PSO,5,10000,0.7523415341579722,approx_hold_final,True,0.7,1276,0.7557482700808255,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0753 < 0.1,False,5P_203_150_200_194_181
+42,GPU-PSO,5,15000,0.7504353784631222,approx_hold_final,True,0.7,1276,0.7557482700808255,Stop A (normal convergence): rel_imp flat 16 iters (≥10) AND contraction_ratio=0.0753 < 0.1,False,5P_203_150_200_194_181
+42,GPU-PSO,8,100,22.15303442492975,observed,False,1.0,3156,0.746570779434386,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0572 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-PSO,8,250,4.308768316118337,observed,False,1.0,3156,0.746570779434386,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0572 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-PSO,8,500,2.3935577864215096,observed,False,1.0,3156,0.746570779434386,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0572 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-PSO,8,750,1.594157982203914,observed,False,1.0,3156,0.746570779434386,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0572 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-PSO,8,1000,1.594157982203914,observed,False,1.0,3156,0.746570779434386,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0572 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-PSO,8,1500,1.3460969835006755,observed,False,1.0,3156,0.746570779434386,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0572 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-PSO,8,2000,0.7911256578708042,observed,False,1.0,3156,0.746570779434386,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0572 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-PSO,8,3000,0.7503823125167257,observed,False,1.0,3156,0.746570779434386,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0572 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-PSO,8,5000,0.7460431229439112,approx_hold_final,True,0.7,3156,0.746570779434386,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0572 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-PSO,8,7500,0.7453317215496049,approx_hold_final,True,0.7,3156,0.746570779434386,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0572 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-PSO,8,10000,0.7446248608084912,approx_hold_final,True,0.7,3156,0.746570779434386,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0572 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-PSO,8,15000,0.7432246455445294,approx_hold_final,True,0.7,3156,0.746570779434386,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0572 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-PSO,10,100,29.622639413038037,observed,False,1.0,4737,0.8286937220648014,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0875 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-PSO,10,250,4.608035509454575,observed,False,1.0,4737,0.8286937220648014,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0875 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-PSO,10,500,3.1392540138201377,observed,False,1.0,4737,0.8286937220648014,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0875 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-PSO,10,750,1.2546093918028864,observed,False,1.0,4737,0.8286937220648014,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0875 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-PSO,10,1000,1.2546093918028864,observed,False,1.0,4737,0.8286937220648014,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0875 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-PSO,10,1500,1.2117532777757167,observed,False,1.0,4737,0.8286937220648014,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0875 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-PSO,10,2000,1.085981280062359,observed,False,1.0,4737,0.8286937220648014,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0875 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-PSO,10,3000,1.0411151541011894,observed,False,1.0,4737,0.8286937220648014,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0875 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-PSO,10,5000,0.8285319457764035,approx_hold_final,True,0.7,4737,0.8286937220648014,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0875 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-PSO,10,7500,0.8270046225920584,approx_hold_final,True,0.7,4737,0.8286937220648014,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0875 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-PSO,10,10000,0.8254960900733226,approx_hold_final,True,0.7,4737,0.8286937220648014,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0875 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-PSO,10,15000,0.8225344751502554,approx_hold_final,True,0.7,4737,0.8286937220648014,Stop A (normal convergence): rel_imp flat 11 iters (≥10) AND contraction_ratio=0.0875 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+2,GPU-PSO,20,100,1.3718193599044404,observed,False,1.0,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False,20P_seed2
+2,GPU-PSO,20,250,0.8322250617687144,observed,False,1.0,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False,20P_seed2
+2,GPU-PSO,20,500,0.7099599728850722,observed,False,1.0,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False,20P_seed2
+2,GPU-PSO,20,750,0.687255785528866,observed,False,1.0,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False,20P_seed2
+2,GPU-PSO,20,1000,0.6762826693874738,observed,False,1.0,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False,20P_seed2
+2,GPU-PSO,20,1500,0.6755665136696328,observed,False,1.0,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False,20P_seed2
+2,GPU-PSO,20,2000,0.6678626461166989,observed,False,1.0,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False,20P_seed2
+2,GPU-PSO,20,3000,0.667760045880422,approx_hold_final,True,0.7,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False,20P_seed2
+2,GPU-PSO,20,5000,0.6675545446668447,approx_hold_final,True,0.7,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False,20P_seed2
+2,GPU-PSO,20,7500,0.6672982614624715,approx_hold_final,True,0.7,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False,20P_seed2
+2,GPU-PSO,20,10000,0.6670426359153415,approx_hold_final,True,0.7,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False,20P_seed2
+2,GPU-PSO,20,15000,0.666533351046593,approx_hold_final,True,0.7,2003,0.6678626461166989,Stop A (normal convergence): rel_imp flat 14 iters (≥10) AND contraction_ratio=0.0932 < 0.1,False,20P_seed2
+42,GPU-PSO,40,100,4.105679873887518,observed,False,1.0,8248,0.4528125496779303,Stop A (normal convergence): rel_imp flat 28 iters (≥10) AND contraction_ratio=0.0633 < 0.1,False,40P_seed42
+42,GPU-PSO,40,250,1.9615434943210608,observed,False,1.0,8248,0.4528125496779303,Stop A (normal convergence): rel_imp flat 28 iters (≥10) AND contraction_ratio=0.0633 < 0.1,False,40P_seed42
+42,GPU-PSO,40,500,1.831037917933048,observed,False,1.0,8248,0.4528125496779303,Stop A (normal convergence): rel_imp flat 28 iters (≥10) AND contraction_ratio=0.0633 < 0.1,False,40P_seed42
+42,GPU-PSO,40,750,1.3996180133614553,observed,False,1.0,8248,0.4528125496779303,Stop A (normal convergence): rel_imp flat 28 iters (≥10) AND contraction_ratio=0.0633 < 0.1,False,40P_seed42
+42,GPU-PSO,40,1000,1.3393461114466358,observed,False,1.0,8248,0.4528125496779303,Stop A (normal convergence): rel_imp flat 28 iters (≥10) AND contraction_ratio=0.0633 < 0.1,False,40P_seed42
+42,GPU-PSO,40,1500,1.2548116249630281,observed,False,1.0,8248,0.4528125496779303,Stop A (normal convergence): rel_imp flat 28 iters (≥10) AND contraction_ratio=0.0633 < 0.1,False,40P_seed42
+42,GPU-PSO,40,2000,1.1839185882673502,observed,False,1.0,8248,0.4528125496779303,Stop A (normal convergence): rel_imp flat 28 iters (≥10) AND contraction_ratio=0.0633 < 0.1,False,40P_seed42
+42,GPU-PSO,40,3000,1.0547360352883761,observed,False,1.0,8248,0.4528125496779303,Stop A (normal convergence): rel_imp flat 28 iters (≥10) AND contraction_ratio=0.0633 < 0.1,False,40P_seed42
+42,GPU-PSO,40,5000,0.5104240625691305,observed,False,1.0,8248,0.4528125496779303,Stop A (normal convergence): rel_imp flat 28 iters (≥10) AND contraction_ratio=0.0633 < 0.1,False,40P_seed42
+42,GPU-PSO,40,7500,0.455948840709931,observed,False,1.0,8248,0.4528125496779303,Stop A (normal convergence): rel_imp flat 28 iters (≥10) AND contraction_ratio=0.0633 < 0.1,False,40P_seed42
+42,GPU-PSO,40,10000,0.4525669602617309,approx_hold_final,True,0.7,8248,0.4528125496779303,Stop A (normal convergence): rel_imp flat 28 iters (≥10) AND contraction_ratio=0.0633 < 0.1,False,40P_seed42
+42,GPU-PSO,40,15000,0.4518709496264483,approx_hold_final,True,0.7,8248,0.4528125496779303,Stop A (normal convergence): rel_imp flat 28 iters (≥10) AND contraction_ratio=0.0633 < 0.1,False,40P_seed42
+42,GPU-PSO,80,100,7.068181113604096,observed,False,1.0,4955,0.5547121383242403,Stop A (normal convergence): rel_imp flat 25 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False,80P_seed42
+42,GPU-PSO,80,250,2.6967354322835533,observed,False,1.0,4955,0.5547121383242403,Stop A (normal convergence): rel_imp flat 25 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False,80P_seed42
+42,GPU-PSO,80,500,1.2490840597424153,observed,False,1.0,4955,0.5547121383242403,Stop A (normal convergence): rel_imp flat 25 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False,80P_seed42
+42,GPU-PSO,80,750,1.023496438728143,observed,False,1.0,4955,0.5547121383242403,Stop A (normal convergence): rel_imp flat 25 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False,80P_seed42
+42,GPU-PSO,80,1000,1.023496438728143,observed,False,1.0,4955,0.5547121383242403,Stop A (normal convergence): rel_imp flat 25 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False,80P_seed42
+42,GPU-PSO,80,1500,0.7706575271365347,observed,False,1.0,4955,0.5547121383242403,Stop A (normal convergence): rel_imp flat 25 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False,80P_seed42
+42,GPU-PSO,80,2000,0.6712381577547217,observed,False,1.0,4955,0.5547121383242403,Stop A (normal convergence): rel_imp flat 25 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False,80P_seed42
+42,GPU-PSO,80,3000,0.6147299208746012,observed,False,1.0,4955,0.5547121383242403,Stop A (normal convergence): rel_imp flat 25 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False,80P_seed42
+42,GPU-PSO,80,5000,0.5547050534712358,approx_hold_final,True,0.7,4955,0.5547121383242403,Stop A (normal convergence): rel_imp flat 25 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False,80P_seed42
+42,GPU-PSO,80,7500,0.554312396770909,approx_hold_final,True,0.7,4955,0.5547121383242403,Stop A (normal convergence): rel_imp flat 25 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False,80P_seed42
+42,GPU-PSO,80,10000,0.5539215931928627,approx_hold_final,True,0.7,4955,0.5547121383242403,Stop A (normal convergence): rel_imp flat 25 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False,80P_seed42
+42,GPU-PSO,80,15000,0.5531455104620405,approx_hold_final,True,0.7,4955,0.5547121383242403,Stop A (normal convergence): rel_imp flat 25 iters (≥10) AND contraction_ratio=0.0807 < 0.1,False,80P_seed42
+42,GPU-PSO,120,100,22.167476730350348,observed,False,1.0,5290,0.8376827016971757,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-PSO,120,250,19.755538884826287,observed,False,1.0,5290,0.8376827016971757,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-PSO,120,500,8.49547669133147,observed,False,1.0,5290,0.8376827016971757,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-PSO,120,750,8.49547669133147,observed,False,1.0,5290,0.8376827016971757,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-PSO,120,1000,8.49547669133147,observed,False,1.0,5290,0.8376827016971757,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-PSO,120,1500,3.5215018041069466,observed,False,1.0,5290,0.8376827016971757,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-PSO,120,2000,3.5215018041069466,observed,False,1.0,5290,0.8376827016971757,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-PSO,120,3000,1.0224431987403713,observed,False,1.0,5290,0.8376827016971757,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-PSO,120,5000,0.8376827016971757,observed,False,1.0,5290,0.8376827016971757,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-PSO,120,7500,0.8369995608425813,approx_hold_final,True,0.6,5290,0.8376827016971757,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-PSO,120,10000,0.8362312530971436,approx_hold_final,True,0.6,5290,0.8376827016971757,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-PSO,120,15000,0.8347087791734324,approx_hold_final,True,0.6,5290,0.8376827016971757,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-PSO,160,100,20.158911644587402,observed,False,1.0,6237,1.361749609645535,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-PSO,160,250,8.54851169741914,observed,False,1.0,6237,1.361749609645535,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-PSO,160,500,8.54851169741914,observed,False,1.0,6237,1.361749609645535,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-PSO,160,750,8.54851169741914,observed,False,1.0,6237,1.361749609645535,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-PSO,160,1000,5.674633261525997,observed,False,1.0,6237,1.361749609645535,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-PSO,160,1500,2.619711012820314,observed,False,1.0,6237,1.361749609645535,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-PSO,160,2000,2.619711012820314,observed,False,1.0,6237,1.361749609645535,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-PSO,160,3000,2.093483071962355,observed,False,1.0,6237,1.361749609645535,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-PSO,160,5000,1.3769187842524997,observed,False,1.0,6237,1.361749609645535,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-PSO,160,7500,1.3608773903594542,approx_hold_final,True,0.6,6237,1.361749609645535,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-PSO,160,10000,1.3591618743804494,approx_hold_final,True,0.6,6237,1.361749609645535,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-PSO,160,15000,1.3557741294700232,approx_hold_final,True,0.6,6237,1.361749609645535,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+2,GPU-PSO,210,100,30.947702809126277,observed,False,1.0,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-PSO,210,250,16.289745934205307,observed,False,1.0,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-PSO,210,500,15.00019761386714,observed,False,1.0,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-PSO,210,750,13.252404464857053,observed,False,1.0,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-PSO,210,1000,13.252404464857053,observed,False,1.0,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-PSO,210,1500,3.9059530815597325,observed,False,1.0,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-PSO,210,2000,3.038263567358153,observed,False,1.0,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-PSO,210,3000,1.02475792903976,observed,False,1.0,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-PSO,210,5000,0.8547626985936503,approx_hold_final,True,0.6,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-PSO,210,7500,0.8530577637481198,approx_hold_final,True,0.6,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-PSO,210,10000,0.8513755303120896,approx_hold_final,True,0.6,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-PSO,210,15000,0.8480779626054871,approx_hold_final,True,0.6,4710,0.8549619543974656,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+42,GPU-CMAES,2,100,0.8548965910742423,observed,False,1.0,350,0.7878708808109129,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0006 < 0.1,False,2P_203_200
+42,GPU-CMAES,2,250,0.7878708808109129,observed,False,1.0,350,0.7878708808109129,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0006 < 0.1,False,2P_203_200
+42,GPU-CMAES,2,500,0.7877729460593893,approx_hold_final,True,0.7,350,0.7878708808109129,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0006 < 0.1,False,2P_203_200
+42,GPU-CMAES,2,750,0.7876099017897555,approx_hold_final,True,0.7,350,0.7878708808109129,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0006 < 0.1,False,2P_203_200
+42,GPU-CMAES,2,1000,0.7874470826456859,approx_hold_final,True,0.7,350,0.7878708808109129,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0006 < 0.1,False,2P_203_200
+42,GPU-CMAES,2,1500,0.7871221184912875,approx_hold_final,True,0.7,350,0.7878708808109129,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0006 < 0.1,False,2P_203_200
+42,GPU-CMAES,2,2000,0.78679805111458,approx_hold_final,True,0.7,350,0.7878708808109129,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0006 < 0.1,False,2P_203_200
+42,GPU-CMAES,2,3000,0.7861525968020036,approx_hold_final,True,0.7,350,0.7878708808109129,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0006 < 0.1,False,2P_203_200
+42,GPU-CMAES,2,5000,0.7848723410759559,approx_hold_final,True,0.7,350,0.7878708808109129,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0006 < 0.1,False,2P_203_200
+42,GPU-CMAES,2,7500,0.7832917943741989,approx_hold_final,True,0.7,350,0.7878708808109129,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0006 < 0.1,False,2P_203_200
+42,GPU-CMAES,2,10000,0.7817329361816943,approx_hold_final,True,0.7,350,0.7878708808109129,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0006 < 0.1,False,2P_203_200
+42,GPU-CMAES,2,15000,0.7786790989558601,approx_hold_final,True,0.7,350,0.7878708808109129,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0006 < 0.1,False,2P_203_200
+42,GPU-CMAES,3,100,0.870169991683076,observed,False,1.0,195,0.870169991683076,Stop A (normal convergence): rel_imp flat 12 iters (≥10) AND contraction_ratio=0.0950 < 0.1,False,3P_203_200_194
+42,GPU-CMAES,3,250,0.8701699916830758,approx_hold_final,True,0.7,195,0.870169991683076,Stop A (normal convergence): rel_imp flat 12 iters (≥10) AND contraction_ratio=0.0950 < 0.1,False,3P_203_200_194
+42,GPU-CMAES,3,500,0.8701699916830758,approx_hold_final,True,0.7,195,0.870169991683076,Stop A (normal convergence): rel_imp flat 12 iters (≥10) AND contraction_ratio=0.0950 < 0.1,False,3P_203_200_194
+42,GPU-CMAES,3,750,0.8701699916830758,approx_hold_final,True,0.7,195,0.870169991683076,Stop A (normal convergence): rel_imp flat 12 iters (≥10) AND contraction_ratio=0.0950 < 0.1,False,3P_203_200_194
+42,GPU-CMAES,3,1000,0.8701699916830758,approx_hold_final,True,0.7,195,0.870169991683076,Stop A (normal convergence): rel_imp flat 12 iters (≥10) AND contraction_ratio=0.0950 < 0.1,False,3P_203_200_194
+42,GPU-CMAES,3,1500,0.8701699916830758,approx_hold_final,True,0.7,195,0.870169991683076,Stop A (normal convergence): rel_imp flat 12 iters (≥10) AND contraction_ratio=0.0950 < 0.1,False,3P_203_200_194
+42,GPU-CMAES,3,2000,0.8701699916830758,approx_hold_final,True,0.7,195,0.870169991683076,Stop A (normal convergence): rel_imp flat 12 iters (≥10) AND contraction_ratio=0.0950 < 0.1,False,3P_203_200_194
+42,GPU-CMAES,3,3000,0.8701699916830758,approx_hold_final,True,0.7,195,0.870169991683076,Stop A (normal convergence): rel_imp flat 12 iters (≥10) AND contraction_ratio=0.0950 < 0.1,False,3P_203_200_194
+42,GPU-CMAES,3,5000,0.8701699916830758,approx_hold_final,True,0.7,195,0.870169991683076,Stop A (normal convergence): rel_imp flat 12 iters (≥10) AND contraction_ratio=0.0950 < 0.1,False,3P_203_200_194
+42,GPU-CMAES,3,7500,0.8701699916830758,approx_hold_final,True,0.7,195,0.870169991683076,Stop A (normal convergence): rel_imp flat 12 iters (≥10) AND contraction_ratio=0.0950 < 0.1,False,3P_203_200_194
+42,GPU-CMAES,3,10000,0.8701699916830758,approx_hold_final,True,0.7,195,0.870169991683076,Stop A (normal convergence): rel_imp flat 12 iters (≥10) AND contraction_ratio=0.0950 < 0.1,False,3P_203_200_194
+42,GPU-CMAES,3,15000,0.8701699916830758,approx_hold_final,True,0.7,195,0.870169991683076,Stop A (normal convergence): rel_imp flat 12 iters (≥10) AND contraction_ratio=0.0950 < 0.1,False,3P_203_200_194
+42,GPU-CMAES,5,100,1.3574810123460308,observed,False,1.0,1125,0.76188185574164,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0207 < 0.1,False,5P_203_150_200_194_181
+42,GPU-CMAES,5,250,0.9740040491690067,observed,False,1.0,1125,0.76188185574164,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0207 < 0.1,False,5P_203_150_200_194_181
+42,GPU-CMAES,5,500,0.8001142223888562,observed,False,1.0,1125,0.76188185574164,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0207 < 0.1,False,5P_203_150_200_194_181
+42,GPU-CMAES,5,750,0.7741064660690201,observed,False,1.0,1125,0.76188185574164,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0207 < 0.1,False,5P_203_150_200_194_181
+42,GPU-CMAES,5,1000,0.76188185574164,observed,False,1.0,1125,0.76188185574164,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0207 < 0.1,False,5P_203_150_200_194_181
+42,GPU-CMAES,5,1500,0.7616721527057168,approx_hold_final,True,0.7,1125,0.76188185574164,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0207 < 0.1,False,5P_203_150_200_194_181
+42,GPU-CMAES,5,2000,0.7613931471072939,approx_hold_final,True,0.7,1125,0.76188185574164,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0207 < 0.1,False,5P_203_150_200_194_181
+42,GPU-CMAES,5,3000,0.7608371814676326,approx_hold_final,True,0.7,1125,0.76188185574164,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0207 < 0.1,False,5P_203_150_200_194_181
+42,GPU-CMAES,5,5000,0.7597333858255753,approx_hold_final,True,0.7,1125,0.76188185574164,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0207 < 0.1,False,5P_203_150_200_194_181
+42,GPU-CMAES,5,7500,0.7583687593184042,approx_hold_final,True,0.7,1125,0.76188185574164,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0207 < 0.1,False,5P_203_150_200_194_181
+42,GPU-CMAES,5,10000,0.7570207398054118,approx_hold_final,True,0.7,1125,0.76188185574164,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0207 < 0.1,False,5P_203_150_200_194_181
+42,GPU-CMAES,5,15000,0.7543737158178249,approx_hold_final,True,0.7,1125,0.76188185574164,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0207 < 0.1,False,5P_203_150_200_194_181
+42,GPU-CMAES,8,100,2.162946203418799,observed,False,1.0,4040,0.6910690870970484,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0192 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-CMAES,8,250,2.162946203418799,observed,False,1.0,4040,0.6910690870970484,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0192 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-CMAES,8,500,1.0105075053335446,observed,False,1.0,4040,0.6910690870970484,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0192 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-CMAES,8,750,0.8027201781726767,observed,False,1.0,4040,0.6910690870970484,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0192 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-CMAES,8,1000,0.7916727091169657,observed,False,1.0,4040,0.6910690870970484,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0192 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-CMAES,8,1500,0.7427348598572004,observed,False,1.0,4040,0.6910690870970484,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0192 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-CMAES,8,2000,0.714339829263516,observed,False,1.0,4040,0.6910690870970484,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0192 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-CMAES,8,3000,0.696705290421329,observed,False,1.0,4040,0.6910690870970484,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0192 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-CMAES,8,5000,0.6909903665921695,approx_hold_final,True,0.7,4040,0.6910690870970484,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0192 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-CMAES,8,7500,0.6907856457111383,approx_hold_final,True,0.7,4040,0.6910690870970484,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0192 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-CMAES,8,10000,0.6905813294446517,approx_hold_final,True,0.7,4040,0.6910690870970484,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0192 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-CMAES,8,15000,0.6901739075581387,approx_hold_final,True,0.7,4040,0.6910690870970484,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0192 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-CMAES,10,100,2.2911200593484127,observed,False,1.0,3750,0.65760220659472,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0337 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-CMAES,10,250,2.2911200593484127,observed,False,1.0,3750,0.65760220659472,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0337 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-CMAES,10,500,1.2555358445099287,observed,False,1.0,3750,0.65760220659472,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0337 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-CMAES,10,750,1.0032667543036877,observed,False,1.0,3750,0.65760220659472,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0337 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-CMAES,10,1000,0.8193883730744956,observed,False,1.0,3750,0.65760220659472,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0337 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-CMAES,10,1500,0.7255514426420524,observed,False,1.0,3750,0.65760220659472,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0337 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-CMAES,10,2000,0.6932708897318026,observed,False,1.0,3750,0.65760220659472,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0337 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-CMAES,10,3000,0.6627771601800277,observed,False,1.0,3750,0.65760220659472,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0337 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-CMAES,10,5000,0.6574325037792862,approx_hold_final,True,0.7,3750,0.65760220659472,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0337 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-CMAES,10,7500,0.6570939735265664,approx_hold_final,True,0.7,3750,0.65760220659472,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0337 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-CMAES,10,10000,0.6567566071004022,approx_hold_final,True,0.7,3750,0.65760220659472,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0337 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-CMAES,10,15000,0.656085349737109,approx_hold_final,True,0.7,3750,0.65760220659472,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0337 < 0.1,False,10P_118_150_154_167_181_188_190_194_200_203
+2,GPU-CMAES,20,100,1.743508921198274,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False,20P_seed2
+2,GPU-CMAES,20,250,0.7478301492245416,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False,20P_seed2
+2,GPU-CMAES,20,500,0.7478301492245416,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False,20P_seed2
+2,GPU-CMAES,20,750,0.7478301492245416,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False,20P_seed2
+2,GPU-CMAES,20,1000,0.7478301492245416,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False,20P_seed2
+2,GPU-CMAES,20,1500,0.7058910231209556,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False,20P_seed2
+2,GPU-CMAES,20,2000,0.7058910231209556,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False,20P_seed2
+2,GPU-CMAES,20,3000,0.6874042180813302,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False,20P_seed2
+2,GPU-CMAES,20,5000,0.6634748933169895,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False,20P_seed2
+2,GPU-CMAES,20,7500,0.645468113287219,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False,20P_seed2
+2,GPU-CMAES,20,10000,0.6397718835785893,observed,False,1.0,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False,20P_seed2
+2,GPU-CMAES,20,15000,0.6355321116068537,approx_hold_final,True,0.7,12200,0.635587569772782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0428 < 0.1,False,20P_seed2
+2,GPU-CMAES,40,100,2.6456973547294624,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False,40P_seed2
+2,GPU-CMAES,40,250,1.0642382542012687,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False,40P_seed2
+2,GPU-CMAES,40,500,1.0642382542012687,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False,40P_seed2
+2,GPU-CMAES,40,750,1.0642382542012687,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False,40P_seed2
+2,GPU-CMAES,40,1000,1.0642382542012687,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False,40P_seed2
+2,GPU-CMAES,40,1500,1.0642382542012687,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False,40P_seed2
+2,GPU-CMAES,40,2000,0.9987808329303917,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False,40P_seed2
+2,GPU-CMAES,40,3000,0.9623597553775921,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False,40P_seed2
+2,GPU-CMAES,40,5000,0.7486023874178538,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False,40P_seed2
+2,GPU-CMAES,40,7500,0.6332539144938834,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False,40P_seed2
+2,GPU-CMAES,40,10000,0.54955577137993,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False,40P_seed2
+2,GPU-CMAES,40,15000,0.47093450738067966,observed,False,1.0,20550,0.4294622071661782,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0520 < 0.1,False,40P_seed2
+2,GPU-CMAES,80,100,1.5525730159011937,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed2
+2,GPU-CMAES,80,250,1.5525730159011937,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed2
+2,GPU-CMAES,80,500,1.5525730159011937,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed2
+2,GPU-CMAES,80,750,1.5525730159011937,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed2
+2,GPU-CMAES,80,1000,1.5525730159011937,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed2
+2,GPU-CMAES,80,1500,0.9981308817299775,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed2
+2,GPU-CMAES,80,2000,0.9618163951032268,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed2
+2,GPU-CMAES,80,3000,0.9618163951032268,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed2
+2,GPU-CMAES,80,5000,0.6431043053045071,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed2
+2,GPU-CMAES,80,7500,0.633496162359327,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed2
+2,GPU-CMAES,80,10000,0.57429425715956,observed,False,1.0,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed2
+2,GPU-CMAES,80,15000,0.49925748715373175,approx_hold_final,True,0.6,13250,0.4995806225132031,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed2
+2,GPU-CMAES,120,100,5.469186522439438,observed,False,1.0,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed2
+2,GPU-CMAES,120,250,2.4974871297710415,observed,False,1.0,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed2
+2,GPU-CMAES,120,500,1.8595291151899842,observed,False,1.0,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed2
+2,GPU-CMAES,120,750,1.7597589132447178,observed,False,1.0,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed2
+2,GPU-CMAES,120,1000,1.7597589132447178,observed,False,1.0,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed2
+2,GPU-CMAES,120,1500,1.5620464059486054,observed,False,1.0,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed2
+2,GPU-CMAES,120,2000,1.5620464059486054,observed,False,1.0,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed2
+2,GPU-CMAES,120,3000,1.3685548715678366,observed,False,1.0,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed2
+2,GPU-CMAES,120,5000,0.9204080799129662,observed,False,1.0,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed2
+2,GPU-CMAES,120,7500,0.7978576538914758,observed,False,1.0,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed2
+2,GPU-CMAES,120,10000,0.7960649198098078,approx_hold_final,True,0.6,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed2
+2,GPU-CMAES,120,15000,0.7923394416059599,approx_hold_final,True,0.6,7650,0.7978576538914758,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed2
+42,GPU-CMAES,160,100,7.9716278578867765,observed,False,1.0,3300,1.1719148989250825,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-CMAES,160,250,2.1565783216739254,observed,False,1.0,3300,1.1719148989250825,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-CMAES,160,500,2.0111289744648384,observed,False,1.0,3300,1.1719148989250825,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-CMAES,160,750,2.0111289744648384,observed,False,1.0,3300,1.1719148989250825,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-CMAES,160,1000,1.1719148989250825,observed,False,1.0,3300,1.1719148989250825,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-CMAES,160,1500,1.1719148989250825,observed,False,1.0,3300,1.1719148989250825,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-CMAES,160,2000,1.1719148989250825,observed,False,1.0,3300,1.1719148989250825,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-CMAES,160,3000,1.1719148989250825,observed,False,1.0,3300,1.1719148989250825,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-CMAES,160,5000,1.1719148989250825,approx_hold_final,True,0.6,3300,1.1719148989250825,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-CMAES,160,7500,1.1719148989250825,approx_hold_final,True,0.6,3300,1.1719148989250825,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-CMAES,160,10000,1.1719148989250825,approx_hold_final,True,0.6,3300,1.1719148989250825,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-CMAES,160,15000,1.1719148989250825,approx_hold_final,True,0.6,3300,1.1719148989250825,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+2,GPU-CMAES,210,100,16.088932294293,observed,False,1.0,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-CMAES,210,250,9.04997687055604,observed,False,1.0,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-CMAES,210,500,2.946568865669251,observed,False,1.0,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-CMAES,210,750,2.946568865669251,observed,False,1.0,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-CMAES,210,1000,1.604244830919884,observed,False,1.0,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-CMAES,210,1500,1.604244830919884,observed,False,1.0,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-CMAES,210,2000,1.604244830919884,observed,False,1.0,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-CMAES,210,3000,1.604244830919884,observed,False,1.0,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-CMAES,210,5000,1.5420893636199833,observed,False,1.0,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-CMAES,210,7500,1.5419150632735663,approx_hold_final,True,0.6,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-CMAES,210,10000,1.5416429818808663,approx_hold_final,True,0.6,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+2,GPU-CMAES,210,15000,1.5410997795461545,approx_hold_final,True,0.6,5900,1.5420893636199833,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed2
+42,GPU-DE,2,100,1.5073753558585166,observed,False,1.0,440,0.7917562097220884,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0067 < 0.1,False,2P_203_200
+42,GPU-DE,2,250,0.8082696101278982,observed,False,1.0,440,0.7917562097220884,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0067 < 0.1,False,2P_203_200
+42,GPU-DE,2,500,0.7917204710202275,approx_hold_final,True,0.7,440,0.7917562097220884,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0067 < 0.1,False,2P_203_200
+42,GPU-DE,2,750,0.7915716754871742,approx_hold_final,True,0.7,440,0.7917562097220884,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0067 < 0.1,False,2P_203_200
+42,GPU-DE,2,1000,0.7914230664321881,approx_hold_final,True,0.7,440,0.7917562097220884,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0067 < 0.1,False,2P_203_200
+42,GPU-DE,2,1500,0.7911264068218951,approx_hold_final,True,0.7,440,0.7917562097220884,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0067 < 0.1,False,2P_203_200
+42,GPU-DE,2,2000,0.7908304903232312,approx_hold_final,True,0.7,440,0.7917562097220884,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0067 < 0.1,False,2P_203_200
+42,GPU-DE,2,3000,0.7902408792196826,approx_hold_final,True,0.7,440,0.7917562097220884,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0067 < 0.1,False,2P_203_200
+42,GPU-DE,2,5000,0.7890704927604051,approx_hold_final,True,0.7,440,0.7917562097220884,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0067 < 0.1,False,2P_203_200
+42,GPU-DE,2,7500,0.7876239251517216,approx_hold_final,True,0.7,440,0.7917562097220884,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0067 < 0.1,False,2P_203_200
+42,GPU-DE,2,10000,0.7861953847574399,approx_hold_final,True,0.7,440,0.7917562097220884,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0067 < 0.1,False,2P_203_200
+42,GPU-DE,2,15000,0.7833914897867486,approx_hold_final,True,0.7,440,0.7917562097220884,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0067 < 0.1,False,2P_203_200
+42,GPU-DE,3,100,3.140881200591064,observed,False,1.0,1020,0.7713872676299357,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0062 < 0.1,False,3P_203_200_194
+42,GPU-DE,3,250,3.140881200591064,observed,False,1.0,1020,0.7713872676299357,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0062 < 0.1,False,3P_203_200_194
+42,GPU-DE,3,500,0.8078474238710076,observed,False,1.0,1020,0.7713872676299357,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0062 < 0.1,False,3P_203_200_194
+42,GPU-DE,3,750,0.7776037877176057,observed,False,1.0,1020,0.7713872676299357,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0062 < 0.1,False,3P_203_200_194
+42,GPU-DE,3,1000,0.7713872676299357,observed,False,1.0,1020,0.7713872676299357,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0062 < 0.1,False,3P_203_200_194
+42,GPU-DE,3,1500,0.7711390874660777,approx_hold_final,True,0.7,1020,0.7713872676299357,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0062 < 0.1,False,3P_203_200_194
+42,GPU-DE,3,2000,0.7708811324941757,approx_hold_final,True,0.7,1020,0.7713872676299357,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0062 < 0.1,False,3P_203_200_194
+42,GPU-DE,3,3000,0.7703669501945422,approx_hold_final,True,0.7,1020,0.7713872676299357,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0062 < 0.1,False,3P_203_200_194
+42,GPU-DE,3,5000,0.7693454602206741,approx_hold_final,True,0.7,1020,0.7713872676299357,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0062 < 0.1,False,3P_203_200_194
+42,GPU-DE,3,7500,0.7680813824559144,approx_hold_final,True,0.7,1020,0.7713872676299357,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0062 < 0.1,False,3P_203_200_194
+42,GPU-DE,3,10000,0.7668313624447551,approx_hold_final,True,0.7,1020,0.7713872676299357,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0062 < 0.1,False,3P_203_200_194
+42,GPU-DE,3,15000,0.7643728720791849,approx_hold_final,True,0.7,1020,0.7713872676299357,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0062 < 0.1,False,3P_203_200_194
+42,GPU-DE,5,100,13.437442606667505,observed,False,1.0,2275,0.7900571458639216,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0577 < 0.1,False,5P_203_150_200_194_181
+42,GPU-DE,5,250,9.716362345424173,observed,False,1.0,2275,0.7900571458639216,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0577 < 0.1,False,5P_203_150_200_194_181
+42,GPU-DE,5,500,1.4670450317185897,observed,False,1.0,2275,0.7900571458639216,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0577 < 0.1,False,5P_203_150_200_194_181
+42,GPU-DE,5,750,1.1171406531354706,observed,False,1.0,2275,0.7900571458639216,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0577 < 0.1,False,5P_203_150_200_194_181
+42,GPU-DE,5,1000,1.0702819531408354,observed,False,1.0,2275,0.7900571458639216,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0577 < 0.1,False,5P_203_150_200_194_181
+42,GPU-DE,5,1500,0.8346620641841578,observed,False,1.0,2275,0.7900571458639216,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0577 < 0.1,False,5P_203_150_200_194_181
+42,GPU-DE,5,2000,0.7916600681094708,observed,False,1.0,2275,0.7900571458639216,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0577 < 0.1,False,5P_203_150_200_194_181
+42,GPU-DE,5,3000,0.789535763558149,approx_hold_final,True,0.7,2275,0.7900571458639216,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0577 < 0.1,False,5P_203_150_200_194_181
+42,GPU-DE,5,5000,0.7881093288543626,approx_hold_final,True,0.7,2275,0.7900571458639216,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0577 < 0.1,False,5P_203_150_200_194_181
+42,GPU-DE,5,7500,0.7863505120881691,approx_hold_final,True,0.7,2275,0.7900571458639216,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0577 < 0.1,False,5P_203_150_200_194_181
+42,GPU-DE,5,10000,0.7846182345840154,approx_hold_final,True,0.7,2275,0.7900571458639216,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0577 < 0.1,False,5P_203_150_200_194_181
+42,GPU-DE,5,15000,0.7812317015720268,approx_hold_final,True,0.7,2275,0.7900571458639216,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0577 < 0.1,False,5P_203_150_200_194_181
+42,GPU-DE,8,100,27.31360344584124,observed,False,1.0,4400,0.6971251987070961,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0750 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-DE,8,250,18.308544944351148,observed,False,1.0,4400,0.6971251987070961,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0750 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-DE,8,500,4.588828899861117,observed,False,1.0,4400,0.6971251987070961,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0750 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-DE,8,750,2.182101575606965,observed,False,1.0,4400,0.6971251987070961,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0750 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-DE,8,1000,1.8779037338839846,observed,False,1.0,4400,0.6971251987070961,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0750 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-DE,8,1500,0.9833600321669851,observed,False,1.0,4400,0.6971251987070961,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0750 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-DE,8,2000,0.9035607489435078,observed,False,1.0,4400,0.6971251987070961,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0750 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-DE,8,3000,0.7547818334108526,observed,False,1.0,4400,0.6971251987070961,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0750 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-DE,8,5000,0.6968691473675874,approx_hold_final,True,0.7,4400,0.6971251987070961,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0750 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-DE,8,7500,0.6958089980840008,approx_hold_final,True,0.7,4400,0.6971251987070961,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0750 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-DE,8,10000,0.6947596232909294,approx_hold_final,True,0.7,4400,0.6971251987070961,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0750 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-DE,8,15000,0.6926927602767844,approx_hold_final,True,0.7,4400,0.6971251987070961,Stop A (normal convergence): rel_imp flat 10 iters (≥10) AND contraction_ratio=0.0750 < 0.1,False,8P_150_154_167_181_188_194_200_203
+42,GPU-DE,10,100,36.0801953144569,observed,False,1.0,3300,1.4952044519608307,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-DE,10,250,20.607049417313164,observed,False,1.0,3300,1.4952044519608307,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-DE,10,500,19.918221288336362,observed,False,1.0,3300,1.4952044519608307,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-DE,10,750,1.7583461450573823,observed,False,1.0,3300,1.4952044519608307,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-DE,10,1000,1.4952044519608307,observed,False,1.0,3300,1.4952044519608307,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-DE,10,1500,1.4952044519608307,observed,False,1.0,3300,1.4952044519608307,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-DE,10,2000,1.4952044519608307,observed,False,1.0,3300,1.4952044519608307,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-DE,10,3000,1.4952044519608307,observed,False,1.0,3300,1.4952044519608307,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-DE,10,5000,1.4952044519608307,approx_hold_final,True,0.6,3300,1.4952044519608307,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-DE,10,7500,1.4952044519608307,approx_hold_final,True,0.6,3300,1.4952044519608307,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-DE,10,10000,1.4952044519608307,approx_hold_final,True,0.6,3300,1.4952044519608307,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-DE,10,15000,1.4952044519608307,approx_hold_final,True,0.6,3300,1.4952044519608307,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,10P_118_150_154_167_181_188_190_194_200_203
+42,GPU-DE,20,100,3.569559154972649,observed,False,1.0,14200,0.7779678919094191,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,20P_seed42
+42,GPU-DE,20,250,3.4266485799186985,observed,False,1.0,14200,0.7779678919094191,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,20P_seed42
+42,GPU-DE,20,500,1.9428665641616318,observed,False,1.0,14200,0.7779678919094191,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,20P_seed42
+42,GPU-DE,20,750,1.1528272361895038,observed,False,1.0,14200,0.7779678919094191,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,20P_seed42
+42,GPU-DE,20,1000,1.1528272361895038,observed,False,1.0,14200,0.7779678919094191,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,20P_seed42
+42,GPU-DE,20,1500,1.1107357294130502,observed,False,1.0,14200,0.7779678919094191,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,20P_seed42
+42,GPU-DE,20,2000,0.9618566722162843,observed,False,1.0,14200,0.7779678919094191,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,20P_seed42
+42,GPU-DE,20,3000,0.8946461066021922,observed,False,1.0,14200,0.7779678919094191,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,20P_seed42
+42,GPU-DE,20,5000,0.8421358287766363,observed,False,1.0,14200,0.7779678919094191,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,20P_seed42
+42,GPU-DE,20,7500,0.813743555303086,observed,False,1.0,14200,0.7779678919094191,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,20P_seed42
+42,GPU-DE,20,10000,0.7909547728989708,observed,False,1.0,14200,0.7779678919094191,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,20P_seed42
+42,GPU-DE,20,15000,0.777935077872405,approx_hold_final,True,0.6,14200,0.7779678919094191,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,20P_seed42
+42,GPU-DE,40,100,4.105679873887518,observed,False,1.0,16100,0.3044488531042154,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,40P_seed42
+42,GPU-DE,40,250,4.105679873887518,observed,False,1.0,16100,0.3044488531042154,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,40P_seed42
+42,GPU-DE,40,500,1.9651648184761896,observed,False,1.0,16100,0.3044488531042154,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,40P_seed42
+42,GPU-DE,40,750,1.9651648184761896,observed,False,1.0,16100,0.3044488531042154,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,40P_seed42
+42,GPU-DE,40,1000,1.3434499276136411,observed,False,1.0,16100,0.3044488531042154,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,40P_seed42
+42,GPU-DE,40,1500,0.8968076215711037,observed,False,1.0,16100,0.3044488531042154,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,40P_seed42
+42,GPU-DE,40,2000,0.5947245244234539,observed,False,1.0,16100,0.3044488531042154,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,40P_seed42
+42,GPU-DE,40,3000,0.4225452958671018,observed,False,1.0,16100,0.3044488531042154,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,40P_seed42
+42,GPU-DE,40,5000,0.3860358660428696,observed,False,1.0,16100,0.3044488531042154,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,40P_seed42
+42,GPU-DE,40,7500,0.3280601628931845,observed,False,1.0,16100,0.3044488531042154,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,40P_seed42
+42,GPU-DE,40,10000,0.31482449081390773,observed,False,1.0,16100,0.3044488531042154,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,40P_seed42
+42,GPU-DE,40,15000,0.3044488531042154,observed,False,1.0,16100,0.3044488531042154,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,40P_seed42
+42,GPU-DE,80,100,13.940264291811156,observed,False,1.0,7000,1.1657257699768875,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed42
+42,GPU-DE,80,250,11.062302917382024,observed,False,1.0,7000,1.1657257699768875,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed42
+42,GPU-DE,80,500,10.945700010904748,observed,False,1.0,7000,1.1657257699768875,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed42
+42,GPU-DE,80,750,7.993826307081504,observed,False,1.0,7000,1.1657257699768875,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed42
+42,GPU-DE,80,1000,7.993826307081504,observed,False,1.0,7000,1.1657257699768875,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed42
+42,GPU-DE,80,1500,7.993826307081504,observed,False,1.0,7000,1.1657257699768875,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed42
+42,GPU-DE,80,2000,6.769332898641888,observed,False,1.0,7000,1.1657257699768875,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed42
+42,GPU-DE,80,3000,2.232586537999325,observed,False,1.0,7000,1.1657257699768875,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed42
+42,GPU-DE,80,5000,1.1657257699768875,observed,False,1.0,7000,1.1657257699768875,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed42
+42,GPU-DE,80,7500,1.165002883638649,approx_hold_final,True,0.6,7000,1.1657257699768875,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed42
+42,GPU-DE,80,10000,1.1614330330258285,approx_hold_final,True,0.6,7000,1.1657257699768875,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed42
+42,GPU-DE,80,15000,1.154511381207202,approx_hold_final,True,0.6,7000,1.1657257699768875,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,80P_seed42
+42,GPU-DE,120,100,36.22320934647736,observed,False,1.0,8150,2.826230595795527,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-DE,120,250,28.088693234073588,observed,False,1.0,8150,2.826230595795527,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-DE,120,500,18.053974675085925,observed,False,1.0,8150,2.826230595795527,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-DE,120,750,11.259013544549214,observed,False,1.0,8150,2.826230595795527,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-DE,120,1000,11.259013544549214,observed,False,1.0,8150,2.826230595795527,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-DE,120,1500,8.354152261244183,observed,False,1.0,8150,2.826230595795527,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-DE,120,2000,7.838346790727349,observed,False,1.0,8150,2.826230595795527,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-DE,120,3000,7.353276330083092,observed,False,1.0,8150,2.826230595795527,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-DE,120,5000,3.6752320121259707,observed,False,1.0,8150,2.826230595795527,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-DE,120,7500,2.826230595795527,observed,False,1.0,8150,2.826230595795527,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-DE,120,10000,2.820159892462154,approx_hold_final,True,0.6,8150,2.826230595795527,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-DE,120,15000,2.804184036772371,approx_hold_final,True,0.6,8150,2.826230595795527,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,120P_seed42
+42,GPU-DE,160,100,23.956494206099524,observed,False,1.0,4700,0.9619051625421089,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-DE,160,250,23.956494206099524,observed,False,1.0,4700,0.9619051625421089,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-DE,160,500,19.16788522138852,observed,False,1.0,4700,0.9619051625421089,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-DE,160,750,13.79257718034817,observed,False,1.0,4700,0.9619051625421089,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-DE,160,1000,1.3053832071461249,observed,False,1.0,4700,0.9619051625421089,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-DE,160,1500,1.3053832071461249,observed,False,1.0,4700,0.9619051625421089,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-DE,160,2000,1.3053832071461249,observed,False,1.0,4700,0.9619051625421089,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-DE,160,3000,0.9619051625421089,observed,False,1.0,4700,0.9619051625421089,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-DE,160,5000,0.9619051625421088,approx_hold_final,True,0.6,4700,0.9619051625421089,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-DE,160,7500,0.9619051625421088,approx_hold_final,True,0.6,4700,0.9619051625421089,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-DE,160,10000,0.9619051625421088,approx_hold_final,True,0.6,4700,0.9619051625421089,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-DE,160,15000,0.9619051625421088,approx_hold_final,True,0.6,4700,0.9619051625421089,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,160P_seed42
+42,GPU-DE,210,100,28.075598599834542,observed,False,1.0,12400,0.8995444344596738,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed42
+42,GPU-DE,210,250,28.075598599834542,observed,False,1.0,12400,0.8995444344596738,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed42
+42,GPU-DE,210,500,20.315650113106873,observed,False,1.0,12400,0.8995444344596738,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed42
+42,GPU-DE,210,750,19.78105712966454,observed,False,1.0,12400,0.8995444344596738,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed42
+42,GPU-DE,210,1000,19.78105712966454,observed,False,1.0,12400,0.8995444344596738,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed42
+42,GPU-DE,210,1500,9.170666182491578,observed,False,1.0,12400,0.8995444344596738,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed42
+42,GPU-DE,210,2000,9.170666182491578,observed,False,1.0,12400,0.8995444344596738,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed42
+42,GPU-DE,210,3000,3.565244884870028,observed,False,1.0,12400,0.8995444344596738,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed42
+42,GPU-DE,210,5000,1.205173236457573,observed,False,1.0,12400,0.8995444344596738,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed42
+42,GPU-DE,210,7500,1.05585144489808,observed,False,1.0,12400,0.8995444344596738,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed42
+42,GPU-DE,210,10000,0.8995444344596738,observed,False,1.0,12400,0.8995444344596738,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed42
+42,GPU-DE,210,15000,0.8985282615358723,approx_hold_final,True,0.6,12400,0.8995444344596738,Stop B (long stagnation): rel_imp flat 50 iters (≥50),False,210P_seed42

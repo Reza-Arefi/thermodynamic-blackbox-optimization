@@ -1,0 +1,16 @@
+{
+    "method": "GD",
+    "dimension": 2,
+    "active_parameters": [
+        203,
+        190
+    ],
+    "loss": 2.3282486896464225,
+    "iterations": 103,
+    "evaluations": 412,
+    "time_seconds": 9876.338660240173,
+    "stop_reason": "stagnation",
+    "gpu": 3,
+    "workers": 1,
+    "seed": 42
+}

@@ -1,0 +1,22 @@
+{
+    "method": "NM",
+    "dimension": 8,
+    "active_parameters": [
+        203,
+        190,
+        150,
+        194,
+        177,
+        184,
+        114,
+        200
+    ],
+    "loss": 0.8827184201675042,
+    "iterations": 105,
+    "evaluations": 429,
+    "time_seconds": 10075.346014738083,
+    "stop_reason": "loss_threshold",
+    "gpu": 3,
+    "workers": 1,
+    "seed": 42
+}

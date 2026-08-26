@@ -1,0 +1,16 @@
+{
+    "method": "NM",
+    "dimension": 2,
+    "active_parameters": [
+        203,
+        190
+    ],
+    "loss": 2.3527505662709394,
+    "iterations": 64,
+    "evaluations": 353,
+    "time_seconds": 8447.076451778412,
+    "stop_reason": "stagnation",
+    "gpu": 3,
+    "workers": 1,
+    "seed": 42
+}

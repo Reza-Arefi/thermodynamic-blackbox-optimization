@@ -1,0 +1,34 @@
+method,n_params,case,seed,is_approx_run,final_loss,total_evals,time_s,n_iterations,converged,stop_reason,source_json
+GPU-CMAES,2,2P,42,False,2.2909657786013624,610,3263.810451745987,61,True,Stop B (long stagnation): rel_imp flat 50 iters (≥50),Fixed-budget/from_table/_stage/GPU-CMAES/2P/gpu_cmaes_iterations_2params.json
+GPU-DE,2,2P,42,False,1.1440481762578483,1080,5653.513517141342,108,True,Stop B (long stagnation): rel_imp flat 50 iters (≥50),Fixed-budget/from_table/_stage/GPU-DE/2P/gpu_de_iterations_2params.json
+GPU-PSO,2,2P,42,False,1.1020490961403087,2920,15309.106984376907,292,True,Stop B (long stagnation): rel_imp flat 50 iters (≥50),Fixed-budget/from_table/_stage/GPU-PSO/2P/gpu_pso_iterations_2params.json
+GPU-CMAES,3,3P,42,False,1.7918068363236868,1920,8094.593055963516,128,True,Stop B (long stagnation): rel_imp flat 50 iters (≥50),Fixed-budget/from_table/_stage/GPU-CMAES/3P/gpu_cmaes_iterations_3params.json
+GPU-DE,3,3P,42,False,0.771240688937894,525,2420.101258993149,35,True,Stop L (loss target): best_loss=0.771241 < 1.0,Fixed-budget/from_table/_stage/GPU-DE/3P/gpu_de_iterations_3params.json
+GPU-PSO,3,3P,42,False,0.8148500243212816,1216,6302.902188062668,120,True,Stop L (loss target): best_loss=0.81485 < 1.0,Fixed-budget/from_table/_stage/GPU-PSO/3P/gpu_pso_iterations_3params.json
+GPU-CMAES,5,5P,42,False,1.0219206924932827,1625,7420.513239860535,65,True,Stop B (long stagnation): rel_imp flat 50 iters (≥50),Fixed-budget/from_table/_stage/GPU-CMAES/5P/gpu_cmaes_iterations_5params.json
+GPU-DE,5,5P,42,False,0.9562149505394042,775,3668.1949672698975,31,True,Stop L (loss target): best_loss=0.956215 < 1.0,Fixed-budget/from_table/_stage/GPU-DE/5P/gpu_de_iterations_5params.json
+GPU-PSO,5,5P,42,False,0.9942677665453595,947,4185.549059152603,60,True,Stop L (loss target): best_loss=0.994268 < 1.0,Fixed-budget/from_table/_stage/GPU-PSO/5P/gpu_pso_iterations_5params.json
+GPU-CMAES,8,8P,42,False,0.8950630112090692,960,4079.5138025283813,24,True,Stop L (loss target): best_loss=0.895063 < 1.0,Fixed-budget/from_table/_stage/GPU-CMAES/8P/gpu_cmaes_iterations_8params.json
+GPU-DE,8,8P,42,False,1.2524917969241103,2840,7431.823109149933,71,True,Stop B (long stagnation): rel_imp flat 50 iters (≥50),Fixed-budget/from_table/_stage/GPU-DE/8P/gpu_de_iterations_8params.json
+GPU-PSO,8,8P,42,False,0.803177347836216,2440,11405.086947202682,97,True,Stop L (loss target): best_loss=0.803177 < 1.0,Fixed-budget/from_table/_stage/GPU-PSO/8P/gpu_pso_iterations_8params.json
+GPU-CMAES,10,10P,42,False,0.9969119314876947,450,2012.607177734375,9,True,Stop L (loss target): best_loss=0.996912 < 1.0,Fixed-budget/from_table/_stage/GPU-CMAES/10P/gpu_cmaes_iterations_10params.json
+GPU-DE,10,10P,42,False,0.8555483822460414,4950,23492.957795143127,99,True,Stop L (loss target): best_loss=0.855548 < 1.0,Fixed-budget/from_table/_stage/GPU-DE/10P/gpu_de_iterations_10params.json
+GPU-PSO,10,10P,42,False,0.9712969049317544,1576,7100.749603509903,49,True,Stop L (loss target): best_loss=0.971297 < 1.0,Fixed-budget/from_table/_stage/GPU-PSO/10P/gpu_pso_iterations_10params.json
+GPU-CMAES,20,20P,42,False,0.9707965115181848,2550,11026.892901182175,51,True,Stop L (loss target): best_loss=0.970797 < 1.0,Fixed-budget/from_table/_stage/GPU-CMAES/20P/gpu_cmaes_iterations_20params.json
+GPU-DE,20,20P,42,False,2.6430060471699828,12800,62921.59223818779,256,True,Stop B (long stagnation): rel_imp flat 50 iters (≥50),Fixed-budget/from_table/_stage/GPU-DE/20P/gpu_de_iterations_20params.json
+GPU-PSO,20,20P,42,False,0.913570993843279,3465,16394.45687031746,98,True,Stop L (loss target): best_loss=0.913571 < 1.0,Fixed-budget/from_table/_stage/GPU-PSO/20P/gpu_pso_iterations_20params.json
+GPU-CMAES,40,40P,42,False,0.9106652241804088,3250,13690.202583789825,65,True,Stop L (loss target): best_loss=0.910665 < 1.0,Fixed-budget/from_table/_stage/GPU-CMAES/40P/gpu_cmaes_iterations_40params.json
+GPU-DE,40,40P,42,False,3.212634721698485,5350,28745.388813972473,107,True,Stop B (long stagnation): rel_imp flat 50 iters (≥50),Fixed-budget/from_table/_stage/GPU-DE/40P/gpu_de_iterations_40params.json
+GPU-PSO,40,40P,42,False,0.9771275011893209,5359,26173.83916735649,241,True,Stop L (loss target): best_loss=0.977128 < 1.0,Fixed-budget/from_table/_stage/GPU-PSO/40P/gpu_pso_iterations_40params.json
+GPU-CMAES,80,80P,42,False,1.9224647041975038,2650,15971.616656780243,53,True,Stop B (long stagnation): rel_imp flat 50 iters (≥50),Fixed-budget/from_table/_stage/GPU-CMAES/80P/gpu_cmaes_iterations_80params.json
+GPU-DE,80,80P,42,False,2.876317046150723,3450,20028.60726594925,69,True,Stop B (long stagnation): rel_imp flat 50 iters (≥50),Fixed-budget/from_table/_stage/GPU-DE/80P/gpu_de_iterations_80params.json
+GPU-PSO,80,80P,42,False,1.6514269471407523,2453,13980.296878576279,74,True,Stop B (long stagnation): rel_imp flat 50 iters (≥50),Fixed-budget/from_table/_stage/GPU-PSO/80P/gpu_pso_iterations_80params.json
+GPU-CMAES,120,120P,42,False,4.098980759297601,2650,13694.41874408722,53,True,Stop B (long stagnation): rel_imp flat 50 iters (≥50),Fixed-budget/from_table/_stage/GPU-CMAES/120P/gpu_cmaes_iterations_120params.json
+GPU-DE,120,120P,42,False,3.636151056278026,5900,35298.512731313705,118,True,Stop B (long stagnation): rel_imp flat 50 iters (≥50),Fixed-budget/from_table/_stage/GPU-DE/120P/gpu_de_iterations_120params.json
+GPU-PSO,120,120P,42,False,1.3271984568455761,4685,27356.466116905212,169,True,Stop B (long stagnation): rel_imp flat 50 iters (≥50),Fixed-budget/from_table/_stage/GPU-PSO/120P/gpu_pso_iterations_120params.json
+GPU-CMAES,160,160P,42,False,1.6270578513492135,2800,13220.686472892761,56,True,Stop B (long stagnation): rel_imp flat 50 iters (≥50),Fixed-budget/from_table/_stage/GPU-CMAES/160P/gpu_cmaes_iterations_160params.json
+GPU-DE,160,160P,42,False,3.645834263154236,3550,19911.79535508156,71,True,Stop B (long stagnation): rel_imp flat 50 iters (≥50),Fixed-budget/from_table/_stage/GPU-DE/160P/gpu_de_iterations_160params.json
+GPU-PSO,160,160P,42,False,2.9698581226489162,4633,29594.893159866333,147,True,Stop B (long stagnation): rel_imp flat 50 iters (≥50),Fixed-budget/from_table/_stage/GPU-PSO/160P/gpu_pso_iterations_160params.json
+GPU-CMAES,210,210P,42,False,0.9191028337085517,9600,60536.904344558716,192,True,Stop L (loss target): best_loss=0.919103 < 1.0,Fixed-budget/from_table/_stage/GPU-CMAES/210P/gpu_cmaes_iterations_210params.json
+GPU-DE,210,210P,42,False,1.250257236892257,5200,26656.377045869827,104,True,Stop B (long stagnation): rel_imp flat 50 iters (≥50),Fixed-budget/from_table/_stage/GPU-DE/210P/gpu_de_iterations_210params.json
+GPU-PSO,210,210P,42,False,0.9227266008500312,6571,36016.97320365906,237,True,Stop L (loss target): best_loss=0.922727 < 1.0,Fixed-budget/from_table/_stage/GPU-PSO/210P/gpu_pso_iterations_210params.json

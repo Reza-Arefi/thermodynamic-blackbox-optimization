@@ -1,0 +1,134 @@
+% Stopping criteria for sequential (GD, NM, PSO) and GPU population methods.
+% Thresholds taken from implementations / documented defaults:
+%   gd/gd_rPar.py, nm/nm_rPar.py, pso/pso_rPar.py,
+%   GPU-pso|GPU-cmaes|GPU-de config.py + run.py (Stop A/B/C).
+%
+% Relative improvement for GPU methods:
+%   rel_imp = |\Delta L| / max(1, |L_old|)
+% Contraction ratio for GPU methods:
+%   contraction_ratio = CurrDiv / InitDiv
+%   (mean per-coordinate std of the population / swarm)
+
+\begin{table}[h]
+\centering
+\caption{Unified summary of stopping criteria for Gradient Descent (GD),
+Nelder--Mead (NM), Particle Swarm Optimization (PSO), and the GPU
+population-based solvers (GPU-PSO, GPU-CMA-ES, GPU-DE).
+A run stops when \emph{any} listed criterion is met (OR logic).
+GPU solvers also share a minimum-iteration gate
+$\mathrm{it}\ge\max(5,10)$ before Stop~A/B.}
+\label{tab:stopping_criteria_all}
+\begin{tabular}{llll}
+\hline
+\textbf{Method} & \textbf{Criterion Type} & \textbf{Threshold} & \textbf{Description} \\
+\hline
+GD &
+Max.\ gradient magnitude &
+$5\times10^{-5}$ &
+$\|\nabla L\|_\infty$ \\
+
+GD &
+Parameter displacement &
+$1\times10^{-5}$ &
+$\|\mathbf{k}^{(t)}-\mathbf{k}^{(t-1)}\|_2$ \\
+
+GD &
+Loss stagnation + gradient &
+$10^{-8}$ (50 it.) &
+Loss unchanged with small gradient \\
+
+\hline
+NM &
+Simplex contraction &
+$5\times10^{-5}$ &
+$\max_i \|\mathbf{s}_i-\mathbf{s}_{\mathrm{best}}\|_2$ \\
+
+NM &
+Max.\ distance to best &
+$1\times10^{-5}$ &
+Largest vertex distance from best point \\
+
+NM &
+Loss stagnation + contraction &
+$10^{-8}$ (50 it.) &
+Loss unchanged with small simplex \\
+
+NM &
+Complete stagnation &
+$10^{-10}$ (10 it.) &
+Loss and simplex geometry unchanged \\
+
+\hline
+PSO &
+Normalized swarm contraction &
+$1\times10^{-5}$ &
+Swarm spread normalized by parameter ranges \\
+
+PSO &
+Absolute swarm diversity &
+$1\times10^{-5}$ &
+Mean standard deviation of particles \\
+
+PSO &
+Loss stagnation + contraction &
+$10^{-8}$ (50 it.) &
+Loss unchanged with small swarm \\
+
+PSO &
+Extended stagnation &
+$10^{-8}$ (10 it.) &
+Loss flat with limited contraction ($<0.05$) \\
+
+\hline
+GPU-PSO &
+Stop A (normal convergence) &
+$10^{-6}$ (10 it.) &
+Rel.\ improvement flat and
+$\mathrm{CurrDiv}/\mathrm{InitDiv}<0.10$ \\
+
+GPU-PSO &
+Stop B (long stagnation) &
+$10^{-6}$ (50 it.) &
+Rel.\ improvement flat (any diversity) \\
+
+GPU-PSO &
+Stop C (iteration budget) &
+$max\_\mathrm{iter}$ &
+Safety limit on iterations \\
+
+\hline
+GPU-CMA-ES &
+Stop A (normal convergence) &
+$10^{-6}$ (10 it.) &
+Same as GPU-PSO:
+rel.\ improvement flat and contraction $<0.10$ \\
+
+GPU-CMA-ES &
+Stop B (long stagnation) &
+$10^{-6}$ (50 it.) &
+Rel.\ improvement flat (any diversity) \\
+
+GPU-CMA-ES &
+Stop C (iteration budget) &
+$max\_\mathrm{iter}$ &
+Safety limit on iterations \\
+
+\hline
+GPU-DE &
+Stop A (normal convergence) &
+$10^{-6}$ (10 it.) &
+Same as GPU-PSO:
+rel.\ improvement flat and contraction $<0.10$ \\
+
+GPU-DE &
+Stop B (long stagnation) &
+$10^{-6}$ (50 it.) &
+Rel.\ improvement flat (any diversity) \\
+
+GPU-DE &
+Stop C (iteration budget) &
+$max\_\mathrm{iter}$ &
+Safety limit on iterations \\
+\hline
+\end{tabular}
+\end{table}

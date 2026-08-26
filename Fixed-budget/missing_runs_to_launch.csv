@@ -1,0 +1,12 @@
+method,seed,n_params,status,param_mode,output_dir,action
+GPU-DE,2,2,MISSING,random_seed2,GPU-de/results/sweep_gpu_all_w16_seed2_random/2P_seed2,run
+GPU-DE,2,3,MISSING,random_seed2,GPU-de/results/sweep_gpu_all_w16_seed2_random/3P_seed2,run
+GPU-DE,2,5,MISSING,random_seed2,GPU-de/results/sweep_gpu_all_w16_seed2_random/5P_seed2,run
+GPU-DE,2,8,MISSING,random_seed2,GPU-de/results/sweep_gpu_all_w16_seed2_random/8P_seed2,run
+GPU-DE,2,10,MISSING,random_seed2,GPU-de/results/sweep_gpu_all_w16_seed2_random/10P_seed2,run
+GPU-DE,2,20,MISSING,random_seed2,GPU-de/results/sweep_gpu_all_w16_seed2_random/20P_seed2,run
+GPU-DE,2,40,MISSING,random_seed2,GPU-de/results/sweep_gpu_all_w16_seed2_random/40P_seed2,run
+GPU-DE,2,80,MISSING,random_seed2,GPU-de/results/sweep_gpu_all_w16_seed2_random/80P_seed2,run
+GPU-DE,2,120,MISSING,random_seed2,GPU-de/results/sweep_gpu_all_w16_seed2_random/120P_seed2,run
+GPU-DE,2,160,MISSING,random_seed2,GPU-de/results/sweep_gpu_all_w16_seed2_random/160P_seed2,run
+GPU-DE,2,210,MISSING,random_seed2,GPU-de/results/sweep_gpu_all_w16_seed2_random/210P_seed2,run

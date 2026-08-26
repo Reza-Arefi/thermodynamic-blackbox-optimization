@@ -1,0 +1,16 @@
+{
+    "method": "GPU-CMAES",
+    "dimension": 2,
+    "active_parameters": [
+        203,
+        190
+    ],
+    "loss": 2.29550659935762,
+    "iterations": 73,
+    "evaluations": 740,
+    "time_seconds": 3854.327484846115,
+    "stop_reason": "stagnation",
+    "gpu": 0,
+    "workers": 16,
+    "seed": 44
+}

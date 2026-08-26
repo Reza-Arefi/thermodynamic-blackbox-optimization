@@ -1,0 +1,10 @@
+metric,value
+n_iterations,652.0
+L0 (iteration 1),9.002592215256982
+L_min,0.4225518287829029
+L_min iteration,651.0
+transition iteration k*,23.0
+L(k*),0.7708410069885622
+(L0 - L(k*)) / (L0 - L_min)  [%],95.94070467599761
+(L0 - L(77)) / (L0 - L_min)  [%]  (if present),96.51172681932928
+total cumulative evaluations,138223.0

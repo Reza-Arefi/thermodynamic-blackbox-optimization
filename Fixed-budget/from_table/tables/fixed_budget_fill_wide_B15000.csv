@@ -1,0 +1,12 @@
+n_params,GPU-PSO,GPU-CMAES,GPU-DE
+2,approx_hold_final,approx_hold_final,approx_hold_final
+3,approx_soft_extend,approx_hold_final,approx_soft_extend
+5,approx_soft_extend,approx_hold_final,approx_soft_extend
+8,approx_soft_extend,approx_soft_extend,approx_hold_final
+10,approx_soft_extend,approx_soft_extend,approx_soft_extend
+20,approx_soft_extend,approx_soft_extend,approx_hold_final
+40,approx_soft_extend,approx_soft_extend,approx_hold_final
+80,approx_hold_final,approx_hold_final,approx_hold_final
+120,approx_hold_final,approx_hold_final,approx_hold_final
+160,approx_hold_final,approx_hold_final,approx_hold_final
+210,approx_soft_extend,approx_soft_extend,approx_hold_final

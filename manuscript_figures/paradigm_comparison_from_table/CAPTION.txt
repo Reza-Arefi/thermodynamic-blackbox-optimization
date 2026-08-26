@@ -1,0 +1,4 @@
+Comparison of sequential and population-based optimization across increasing parameter dimensions (current table sweep). (a) Wall-clock time, (b) simulator function evaluations, (c) iterations to convergence, (d) empirical computational scaling, (e) final objective value, and (f) relative computational cost of PSO with respect to GD and NM. PSO curves omit unfinished N=160 and N=210.
+
+LaTeX label: \label{fig:paradigm_comparison_table}
+Source: table/results_table.csv (GD, NM, PSO only)

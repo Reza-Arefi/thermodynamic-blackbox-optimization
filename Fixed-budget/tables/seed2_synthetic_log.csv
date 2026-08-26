@@ -1,0 +1,12 @@
+method,n_params,seed,fill_kind,approx_note,peers_used,priority,action
+GPU-DE,2,2,approx_seed_transfer,"seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']","GPU-PSO,GPU-CMAES",high,Run real GPU-DE seed=2 N=2 to replace approximation
+GPU-DE,3,2,approx_seed_transfer,"seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']","GPU-PSO,GPU-CMAES",high,Run real GPU-DE seed=2 N=3 to replace approximation
+GPU-DE,5,2,approx_seed_transfer,"seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']","GPU-PSO,GPU-CMAES",high,Run real GPU-DE seed=2 N=5 to replace approximation
+GPU-DE,8,2,approx_seed_transfer,"seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']","GPU-PSO,GPU-CMAES",high,Run real GPU-DE seed=2 N=8 to replace approximation
+GPU-DE,10,2,approx_seed_transfer,"seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']","GPU-PSO,GPU-CMAES",high,Run real GPU-DE seed=2 N=10 to replace approximation
+GPU-DE,20,2,approx_seed_transfer,"seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']","GPU-PSO,GPU-CMAES",high,Run real GPU-DE seed=2 N=20 to replace approximation
+GPU-DE,40,2,approx_seed_transfer,"seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']","GPU-PSO,GPU-CMAES",high,Run real GPU-DE seed=2 N=40 to replace approximation
+GPU-DE,80,2,approx_seed_transfer,"seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']","GPU-PSO,GPU-CMAES",high,Run real GPU-DE seed=2 N=80 to replace approximation
+GPU-DE,120,2,approx_seed_transfer,"seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']","GPU-PSO,GPU-CMAES",high,Run real GPU-DE seed=2 N=120 to replace approximation
+GPU-DE,160,2,approx_seed_transfer,"seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']","GPU-PSO,GPU-CMAES",high,Run real GPU-DE seed=2 N=160 to replace approximation
+GPU-DE,210,2,approx_seed_transfer,"seed-transfer from seed42 × geo-mean ratios of peers ['GPU-PSO', 'GPU-CMAES']","GPU-PSO,GPU-CMAES",high,Run real GPU-DE seed=2 N=210 to replace approximation

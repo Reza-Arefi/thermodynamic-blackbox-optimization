@@ -1,0 +1,37 @@
+priority,seed,method,n_params,issue,detail,suggested_max_evals,action
+medium,-1,GPU-CMAES,2,short_vs_peers,T=350 evals vs peer_max=1500; stop=StopA — large-B cells use approx_hold/soft,5000,Optional re-run with larger max_iter / disabled early stop for fixed-budget fairness at high B
+medium,-1,GPU-CMAES,2,high_approx_fraction,100% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-DE,2,short_vs_peers,T=440 evals vs peer_max=1500; stop=StopA — large-B cells use approx_hold/soft,5000,Optional re-run with larger max_iter / disabled early stop for fixed-budget fairness at high B
+medium,-1,GPU-DE,2,high_approx_fraction,100% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-PSO,2,high_approx_fraction,100% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-CMAES,3,short_vs_peers,T=195 evals vs peer_max=1155; stop=StopA — large-B cells use approx_hold/soft,5000,Optional re-run with larger max_iter / disabled early stop for fixed-budget fairness at high B
+medium,-1,GPU-CMAES,3,high_approx_fraction,100% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-DE,3,high_approx_fraction,100% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-PSO,3,high_approx_fraction,100% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-CMAES,5,short_vs_peers,T=1125 evals vs peer_max=2275; stop=StopA — large-B cells use approx_hold/soft,5000,Optional re-run with larger max_iter / disabled early stop for fixed-budget fairness at high B
+medium,-1,GPU-CMAES,5,high_approx_fraction,100% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-DE,5,high_approx_fraction,75% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-PSO,5,high_approx_fraction,100% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-CMAES,8,high_approx_fraction,75% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-DE,8,high_approx_fraction,75% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-PSO,8,high_approx_fraction,75% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-CMAES,10,high_approx_fraction,75% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-DE,10,high_approx_fraction,75% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-PSO,10,high_approx_fraction,75% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-PSO,20,short_vs_peers,T=2003 evals vs peer_max=14200; stop=StopA — large-B cells use approx_hold/soft,14200,Optional re-run with larger max_iter / disabled early stop for fixed-budget fairness at high B
+medium,-1,GPU-PSO,20,high_approx_fraction,75% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-PSO,40,short_vs_peers,T=8248 evals vs peer_max=20550; stop=StopA — large-B cells use approx_hold/soft,20550,Optional re-run with larger max_iter / disabled early stop for fixed-budget fairness at high B
+medium,-1,GPU-PSO,40,high_approx_fraction,50% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-DE,80,high_approx_fraction,50% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-PSO,80,short_vs_peers,T=4955 evals vs peer_max=13250; stop=StopA — large-B cells use approx_hold/soft,13250,Optional re-run with larger max_iter / disabled early stop for fixed-budget fairness at high B
+medium,-1,GPU-PSO,80,high_approx_fraction,75% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-CMAES,120,high_approx_fraction,50% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-DE,120,high_approx_fraction,50% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-PSO,120,high_approx_fraction,50% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-CMAES,160,high_approx_fraction,75% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-DE,160,high_approx_fraction,75% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-PSO,160,high_approx_fraction,50% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-CMAES,210,short_vs_peers,T=5900 evals vs peer_max=12400; stop=StopB — large-B cells use approx_hold/soft,12400,Optional re-run with larger max_iter / disabled early stop for fixed-budget fairness at high B
+medium,-1,GPU-CMAES,210,high_approx_fraction,50% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable
+medium,-1,GPU-PSO,210,short_vs_peers,T=4710 evals vs peer_max=12400; stop=StopB — large-B cells use approx_hold/soft,12400,Optional re-run with larger max_iter / disabled early stop for fixed-budget fairness at high B
+medium,-1,GPU-PSO,210,high_approx_fraction,75% of key-budget cells are approximated,15000,Extend history at least to B=5000–15000 if affordable

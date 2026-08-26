@@ -1,0 +1,38 @@
+\begin{table}[h!]
+\centering
+\caption{Comparison of optimization methods for high-dimensional problems (80--210 parameters). Best loss is shown in bold. Parameters: top-N from 210P GD sensitivity. Stopping: loss $<$ 1 or 50-iter relative stagnation.}
+\label{tab:results_high}
+\begin{tabular}{llllll}
+\toprule
+\textbf{Case} & \textbf{Method} & \textbf{Loss (MSE)} & \textbf{Iterations} & \textbf{Evaluations} & \textbf{Time (s)} \\
+\midrule
+ \multirow{6}{*}{80 Params} & GD           & \textbf{0.990185} & 10 & 820 & 19213.60s \\
+  & NM           & 7.754082 & 50 & 281 & 6600.98s \\
+  & PSO          & 7.651110 & 56 & 2795 & 63472.01s \\
+  & GPU-PSO      & 1.651427 & 73 & 2453 & 13980.30s \\
+  & GPU-CMAES    & 1.922465 & 52 & 2650 & 15971.62s \\
+  & GPU-DE       & 2.876317 & 68 & 3450 & 20028.61s \\
+\midrule
+ \multirow{6}{*}{120 Params} & GD           & \textbf{0.985939} & 13 & 1586 & 37365.27s \\
+  & NM           & 7.754082 & 50 & 321 & 7521.03s \\
+  & PSO          & 7.503429 & 70 & 3481 & 83858.61s \\
+  & GPU-PSO      & 1.327198 & 168 & 4685 & 27356.47s \\
+  & GPU-CMAES    & 4.098981 & 52 & 2650 & 13694.42s \\
+  & GPU-DE       & 3.636151 & 117 & 5900 & 35298.51s \\
+\midrule
+ \multirow{6}{*}{160 Params} & GD           & \textbf{0.975905} & 8 & 1296 & 30466.68s \\
+  & NM           & 7.754082 & 50 & 361 & 8391.22s \\
+  & PSO          & 1.514873 & 105 & 5196 & 136521.90s \\
+  & GPU-PSO      & 2.969858 & 146 & 4633 & 29594.89s \\
+  & GPU-CMAES    & 1.627058 & 55 & 2800 & 13220.69s \\
+  & GPU-DE       & 3.645834 & 70 & 3550 & 19911.80s \\
+\midrule
+ \multirow{6}{*}{210 Params} & GD           & 0.969470 & 12 & 2544 & 59668.62s \\
+  & NM           & 7.754082 & 50 & 411 & 8445.04s \\
+  & PSO          &  &  &  &  \\
+  & GPU-PSO      & 0.922727 & 236 & 6571 & 36016.97s \\
+  & GPU-CMAES    & \textbf{0.919103} & 191 & 9600 & 60536.90s \\
+  & GPU-DE       & 1.250257 & 103 & 5200 & 26656.38s \\
+\bottomrule
+\end{tabular}
+\end{table}

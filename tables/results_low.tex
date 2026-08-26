@@ -1,0 +1,59 @@
+\begin{table}[h!]
+\centering
+\caption{Comparison of optimization methods for low- and medium-dimensional problems (2--40 parameters). Best loss is shown in bold. Parameters: top-N from 210P GD sensitivity. Stopping: loss $<$ 1 or 50-iter relative stagnation.}
+\label{tab:results_low}
+\begin{tabular}{llllll}
+\toprule
+\textbf{Case} & \textbf{Method} & \textbf{Loss (MSE)} & \textbf{Iterations} & \textbf{Evaluations} & \textbf{Time (s)} \\
+\midrule
+ \multirow{6}{*}{2 Params} & GD           & 2.328249 & 103 & 412 & 9876.34s \\
+  & NM           & 2.352751 & 64 & 353 & 8447.08s \\
+  & PSO          & 1.472681 & 60 & 551 & 12879.39s \\
+  & GPU-PSO      & \textbf{1.102049} & 291 & 2920 & 15309.11s \\
+  & GPU-CMAES    & 2.290966 & 60 & 610 & 3263.81s \\
+  & GPU-DE       & 1.144048 & 107 & 1080 & 5653.51s \\
+\midrule
+ \multirow{6}{*}{3 Params} & GD           & 2.229514 & 118 & 590 & 14255.52s \\
+  & NM           & 2.330059 & 69 & 412 & 10191.69s \\
+  & PSO          & 0.980570 & 7 & 114 & 2655.84s \\
+  & GPU-PSO      & 0.814850 & 119 & 1216 & 6302.90s \\
+  & GPU-CMAES    & 1.791807 & 127 & 1920 & 8094.59s \\
+  & GPU-DE       & \textbf{0.771241} & 34 & 525 & 2420.10s \\
+\midrule
+ \multirow{6}{*}{5 Params} & GD           & 1.794734 & 485 & 3395 & 81602.59s \\
+  & NM           & 2.363684 & 93 & 603 & 14309.04s \\
+  & PSO          & 1.034670 & 61 & 1490 & 35835.30s \\
+  & GPU-PSO      & 0.994268 & 59 & 947 & 4185.55s \\
+  & GPU-CMAES    & 1.021921 & 64 & 1625 & 7420.51s \\
+  & GPU-DE       & \textbf{0.956215} & 30 & 775 & 3668.19s \\
+\midrule
+ \multirow{6}{*}{8 Params} & GD           & 0.990063 & 52 & 520 & 12284.96s \\
+  & NM           & 0.882718 & 105 & 429 & 10075.35s \\
+  & PSO          & 1.735539 & 60 & 2381 & 56970.21s \\
+  & GPU-PSO      & \textbf{0.803177} & 96 & 2440 & 11405.09s \\
+  & GPU-CMAES    & 0.895063 & 23 & 960 & 4079.51s \\
+  & GPU-DE       & 1.252492 & 70 & 2840 & 7431.82s \\
+\midrule
+ \multirow{6}{*}{10 Params} & GD           & 0.984502 & 74 & 888 & 21989.59s \\
+  & NM           & 0.876052 & 91 & 375 & 9378.82s \\
+  & PSO          & 1.628922 & 86 & 4265 & 101506.86s \\
+  & GPU-PSO      & 0.971297 & 48 & 1576 & 7100.75s \\
+  & GPU-CMAES    & 0.996912 & 8 & 450 & 2012.61s \\
+  & GPU-DE       & \textbf{0.855548} & 98 & 4950 & 23492.96s \\
+\midrule
+ \multirow{6}{*}{20 Params} & GD           & 0.969921 & 40 & 880 & 20850.57s \\
+  & NM           & 0.993297 & 233 & 953 & 22261.28s \\
+  & PSO          & 8.760625 & 61 & 3040 & 72790.21s \\
+  & GPU-PSO      & \textbf{0.913571} & 97 & 3465 & 16394.46s \\
+  & GPU-CMAES    & 0.970797 & 50 & 2550 & 11026.89s \\
+  & GPU-DE       & 2.643006 & 255 & 12800 & 62921.59s \\
+\midrule
+ \multirow{6}{*}{40 Params} & GD           & 0.966635 & 17 & 714 & 16982.18s \\
+  & NM           & 7.754082 & 50 & 241 & 5652.05s \\
+  & PSO          & 3.803007 & 112 & 5539 & 136713.24s \\
+  & GPU-PSO      & 0.977128 & 240 & 5359 & 26173.84s \\
+  & GPU-CMAES    & \textbf{0.910665} & 64 & 3250 & 13690.20s \\
+  & GPU-DE       & 3.212635 & 106 & 5350 & 28745.39s \\
+\bottomrule
+\end{tabular}
+\end{table}

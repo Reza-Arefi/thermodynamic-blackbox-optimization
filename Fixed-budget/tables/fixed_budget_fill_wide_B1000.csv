@@ -1,0 +1,12 @@
+n_params,GPU-PSO,GPU-CMAES,GPU-DE
+2,observed,approx_hold_final,approx_hold_final
+3,observed,approx_hold_final,observed
+5,observed,observed,observed
+8,observed,observed,observed
+10,observed,observed,observed
+20,observed,observed,observed
+40,observed,observed,observed
+80,observed,observed,observed
+120,observed,observed,observed
+160,observed,observed,observed
+210,observed,observed,observed
